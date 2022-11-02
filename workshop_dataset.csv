@@ -308,7 +308,7 @@ index,sex,IBD_type,med_class,antibody_level,seroconversion,age_group,DX_days,vac
 307,female,CD,Ustekinumab Only,7170,positive,adult,,booster1,27-Jul-21,07-Jun-21,vector,41,40 to 49
 308,female,CD,Ustekinumab Only,856,positive,adult,,booster1,29-Dec-21,09-Nov-21,vector,42,40 to 49
 309,male,CD,Anti-TNF Only,1743,positive,elderly,,booster1,07-Jul-21,18-May-21,mRNA,76,70+
-310,male,CD,Vedolizumab Only,12832,positive,adult,39,Pre-1st,10-Jun-21,21-Apr-21,vector,33,30 to 39
+310,male,CD,Vedolizumab Only,12832,positive,adult,39,pre_dose,10-Jun-21,21-Apr-21,vector,33,30 to 39
 311,female,CD,Combination Therapy,2409,positive,adult,310,primary,24-Jun-21,05-May-21,mRNA,37,30 to 39
 312,male,CD,Immunomodulator Only,40,negative,adult,308,primary,05-Jun-21,16-Apr-21,mRNA,52,50 to 59
 313,male,CD,Immunomodulator Only,2006,positive,pediatric,249,booster1,03-Aug-21,14-Jun-21,mRNA,13,10 to 17
@@ -352,7 +352,7 @@ index,sex,IBD_type,med_class,antibody_level,seroconversion,age_group,DX_days,vac
 351,male,CD,Anti-TNF Only,2189,positive,elderly,,booster2,27-Nov-21,08-Oct-21,mRNA,62,60 to 69
 352,male,CD,Anti-TNF Only,804,positive,elderly,,booster2,22-Feb-22,03-Jan-22,mRNA,63,60 to 69
 353,male,CD,Anti-TNF Only,4253,positive,elderly,,booster2,19-Apr-22,28-Feb-22,mRNA,63,60 to 69
-354,female,UC,No Immunosuppressives,6582,positive,adult,28,Pre-1st,11-Jun-21,22-Apr-21,mRNA,56,50 to 59
+354,female,UC,No Immunosuppressives,6582,positive,adult,28,pre_dose,11-Jun-21,22-Apr-21,mRNA,56,50 to 59
 355,female,UC,No Immunosuppressives,25897,positive,adult,69,primary,22-Jul-21,02-Jun-21,mRNA,56,50 to 59
 356,female,UC,No Immunosuppressives,51207,positive,adult,84,booster1,06-Aug-21,17-Jun-21,mRNA,56,50 to 59
 357,female,UC,No Immunosuppressives,14738,positive,adult,252,booster1,21-Jan-22,02-Dec-21,mRNA,56,50 to 59
@@ -445,7 +445,7 @@ index,sex,IBD_type,med_class,antibody_level,seroconversion,age_group,DX_days,vac
 444,male,UC,Anti-TNF Only,2442,positive,adult,52,booster1,02-Jul-21,13-May-21,mRNA,38,30 to 39
 445,male,UC,Anti-TNF Only,273,positive,adult,217,booster1,14-Dec-21,25-Oct-21,mRNA,38,30 to 39
 446,male,UC,Anti-TNF Only,3844,positive,adult,393,booster2,08-Jun-22,19-Apr-22,mRNA,39,30 to 39
-447,female,UC,No Immunosuppressives,126,positive,adult,38,Pre-1st,30-Jun-21,11-May-21,mRNA,19,18 to 29
+447,female,UC,No Immunosuppressives,126,positive,adult,38,pre_dose,30-Jun-21,11-May-21,mRNA,19,18 to 29
 448,female,UC,No Immunosuppressives,6736,positive,adult,117,primary,17-Sep-21,29-Jul-21,mRNA,19,18 to 29
 449,female,UC,No Immunosuppressives,3908,positive,adult,5,booster1,12-Feb-22,24-Dec-21,mRNA,20,18 to 29
 450,female,CD,Ustekinumab Only,503,positive,adult,,primary,30-Jun-21,11-May-21,mRNA,39,30 to 39
@@ -532,7 +532,7 @@ index,sex,IBD_type,med_class,antibody_level,seroconversion,age_group,DX_days,vac
 531,female,CD,Immunomodulator Only,2459,positive,adult,,booster1,06-Aug-21,17-Jun-21,vector,38,30 to 39
 532,female,CD,Immunomodulator Only,9819,positive,adult,,booster2,13-Nov-21,24-Sep-21,vector,39,30 to 39
 533,female,CD,Immunomodulator Only,1574,positive,adult,,booster2,23-Feb-22,04-Jan-22,vector,39,30 to 39
-534,female,CD,Anti-TNF Only,,,adult,98,,09-Oct-21,44428,,39,30 to 39
+534,female,CD,Anti-TNF Only,,,adult,98,primary,09-Oct-21,44428,,39,30 to 39
 535,male,CD,Combination Therapy,1100,positive,adult,,primary,03-Sep-21,15-Jul-21,mRNA,60,60 to 69
 536,male,CD,Combination Therapy,48586,positive,adult,,booster1,01-Oct-21,12-Aug-21,mRNA,60,60 to 69
 537,male,CD,Combination Therapy,4339,positive,adult,,booster1,11-Feb-22,23-Dec-21,mRNA,61,60 to 69
@@ -563,7 +563,7 @@ index,sex,IBD_type,med_class,antibody_level,seroconversion,age_group,DX_days,vac
 562,female,UC,Combination Therapy,93,positive,adult,94,booster2,06-Feb-22,18-Dec-21,vector,47,40 to 49
 563,female,UC,Combination Therapy,4738,positive,adult,56,booster2,16-Mar-22,25-Jan-22,vector,47,40 to 49
 564,other,UC,Combination Therapy,4103,positive,adult,55,booster2,05-Jul-22,16-May-22,vector,47,40 to 49
-565,female,CD,Anti-TNF Only,698,positive,adult,30,Pre-1st,21-Apr-21,02-Mar-21,mRNA,32,30 to 39
+565,female,CD,Anti-TNF Only,698,positive,adult,30,pre_dose,21-Apr-21,02-Mar-21,mRNA,32,30 to 39
 566,female,CD,Anti-TNF Only,24253,positive,adult,395,booster2,21-Apr-22,02-Mar-22,mRNA,33,30 to 39
 567,male,CD,Ustekinumab Only,997,positive,adult,,primary,25-Sep-21,06-Aug-21,vector,60,60 to 69
 568,male,CD,Ustekinumab Only,30222,positive,adult,,booster1,23-Oct-21,03-Sep-21,vector,60,60 to 69
@@ -573,7 +573,7 @@ index,sex,IBD_type,med_class,antibody_level,seroconversion,age_group,DX_days,vac
 572,female,CD,Vedolizumab Only,3608,positive,adult,135,booster1,23-Sep-21,04-Aug-21,mRNA,39,30 to 39
 573,female,CD,Vedolizumab Only,7124,positive,adult,4,booster2,01-Feb-22,13-Dec-21,mRNA,39,30 to 39
 574,female,CD,Vedolizumab Only,39085,positive,adult,18,booster2,23-Feb-22,04-Jan-22,mRNA,40,40 to 49
-575,male,UC,Anti-TNF Only,79,negative,adult,271,Pre-1st,24-Apr-21,05-Mar-21,mRNA,27,18 to 29
+575,male,UC,Anti-TNF Only,79,negative,adult,271,pre_dose,24-Apr-21,05-Mar-21,mRNA,27,18 to 29
 576,female,CD,Vedolizumab Only,604,positive,adult,,primary,22-Jun-21,03-May-21,vector,36,30 to 39
 577,female,CD,Vedolizumab Only,21203,positive,adult,,booster1,04-Sep-21,16-Jul-21,vector,36,30 to 39
 578,female,CD,Vedolizumab Only,4665,positive,adult,,booster1,16-Dec-21,27-Oct-21,vector,37,30 to 39
@@ -615,7 +615,7 @@ index,sex,IBD_type,med_class,antibody_level,seroconversion,age_group,DX_days,vac
 614,female,CD,Anti-TNF Only,2508,positive,elderly,,booster1,10-Aug-21,21-Jun-21,mRNA,67,60 to 69
 615,female,CD,Anti-TNF Only,1411,positive,elderly,,booster2,25-Jan-22,06-Dec-21,mRNA,67,60 to 69
 616,female,CD,Anti-TNF Only,5708,positive,elderly,,booster2,04-Jun-22,15-Apr-22,mRNA,68,60 to 69
-617,female,CD,Ustekinumab Only,109,positive,adult,18,Pre-1st,09-Jun-21,20-Apr-21,vector,58,50 to 59
+617,female,CD,Ustekinumab Only,109,positive,adult,18,pre_dose,09-Jun-21,20-Apr-21,vector,58,50 to 59
 618,female,CD,Ustekinumab Only,10484,positive,adult,59,primary,20-Jul-21,31-May-21,vector,58,50 to 59
 619,female,CD,Ustekinumab Only,16854,positive,adult,,booster1,12-Aug-21,23-Jun-21,vector,58,50 to 59
 620,female,CD,Ustekinumab Only,15899,positive,adult,294,booster2,12-Mar-22,21-Jan-22,vector,59,50 to 59
@@ -623,7 +623,7 @@ index,sex,IBD_type,med_class,antibody_level,seroconversion,age_group,DX_days,vac
 622,female,CD,Combination Therapy,204,positive,adult,,primary,04-Jun-21,15-Apr-21,mRNA,36,30 to 39
 623,female,CD,Combination Therapy,,,adult,,booster1,29-Jul-21,09-Jun-21,mRNA,36,30 to 39
 624,female,CD,Combination Therapy,394,positive,adult,,booster2,11-Mar-22,20-Jan-22,mRNA,37,30 to 39
-625,female,CD,Anti-TNF Only,3526,positive,elderly,40,Pre-1st,05-Mar-21,14-Jan-21,mRNA,64,60 to 69
+625,female,CD,Anti-TNF Only,3526,positive,elderly,40,pre_dose,05-Mar-21,14-Jan-21,mRNA,64,60 to 69
 626,female,CD,Anti-TNF Only,80080,positive,elderly,265,primary,16-Oct-21,27-Aug-21,mRNA,64,60 to 69
 627,female,CD,Anti-TNF Only,27398,positive,elderly,331,booster1,21-Dec-21,01-Nov-21,mRNA,65,60 to 69
 628,female,UC,Vedolizumab Only,10234,positive,adult,,booster1,06-Aug-21,17-Jun-21,mRNA,24,18 to 29
@@ -645,10 +645,10 @@ index,sex,IBD_type,med_class,antibody_level,seroconversion,age_group,DX_days,vac
 644,female,CD,Vedolizumab Only,29192,positive,adult,,booster2,09-Jul-22,20-May-22,vector,54,50 to 59
 645,female,CD,Vedolizumab Only,22284,positive,adult,,booster1,25-Aug-21,06-Jul-21,mRNA,36,30 to 39
 646,female,CD,Vedolizumab Only,13811,positive,adult,,booster2,24-Dec-21,04-Nov-21,mRNA,36,30 to 39
-647,female,UC,No Immunosuppressives,608,positive,adult,203,Pre-1st,30-Mar-21,08-Feb-21,vector,26,18 to 29
+647,female,UC,No Immunosuppressives,608,positive,adult,203,pre_dose,30-Mar-21,08-Feb-21,vector,26,18 to 29
 648,female,UC,No Immunosuppressives,9714,positive,adult,522,booster2,12-Feb-22,24-Dec-21,vector,27,18 to 29
-649,male,CD,Ustekinumab Only,6,negative,adult,,Pre-1st,25-Feb-21,06-Jan-21,mRNA,54,50 to 59
-650,female,CD,Anti-TNF Only,45,negative,adult,142,Pre-1st,12-Mar-21,21-Jan-21,mRNA,50,50 to 59
+649,male,CD,Ustekinumab Only,6,negative,adult,,pre_dose,25-Feb-21,06-Jan-21,mRNA,54,50 to 59
+650,female,CD,Anti-TNF Only,45,negative,adult,142,pre_dose,12-Mar-21,21-Jan-21,mRNA,50,50 to 59
 651,female,CD,Anti-TNF Only,3538,positive,adult,225,primary,03-Jun-21,14-Apr-21,mRNA,50,50 to 59
 652,female,CD,Anti-TNF Only,,,adult,282,booster1,30-Jul-21,10-Jun-21,mRNA,50,50 to 59
 653,female,CD,Anti-TNF Only,276,positive,adult,444,booster1,08-Jan-22,19-Nov-21,mRNA,50,50 to 59
@@ -665,16 +665,16 @@ index,sex,IBD_type,med_class,antibody_level,seroconversion,age_group,DX_days,vac
 664,female,CD,Vedolizumab Only,31556,positive,adult,287,booster1,06-Mar-21,15-Jan-21,mRNA,37,30 to 39
 665,female,CD,Vedolizumab Only,1696,positive,adult,,booster1,18-Dec-21,29-Oct-21,mRNA,38,30 to 39
 666,female,CD,Vedolizumab Only,14407,positive,adult,5,booster1,23-Dec-21,03-Nov-21,mRNA,38,30 to 39
-667,female,CD,Anti-TNF Only,836,positive,adult,25,Pre-1st,24-Dec-20,04-Nov-20,vector,41,40 to 49
+667,female,CD,Anti-TNF Only,836,positive,adult,25,pre_dose,24-Dec-20,04-Nov-20,vector,41,40 to 49
 668,female,CD,Anti-TNF Only,2546,positive,adult,304,primary,29-Sep-21,10-Aug-21,vector,42,40 to 49
-669,male,CD,Anti-TNF Only,55,negative,adult,218,Pre-1st,02-Feb-21,14-Dec-20,mRNA,48,40 to 49
+669,male,CD,Anti-TNF Only,55,negative,adult,218,pre_dose,02-Feb-21,14-Dec-20,mRNA,48,40 to 49
 670,male,CD,Anti-TNF Only,979,positive,adult,408,booster1,22-Jul-21,02-Jun-21,mRNA,48,40 to 49
 671,male,CD,Anti-TNF Only,6759,positive,adult,590,booster2,20-Jan-22,01-Dec-21,mRNA,48,40 to 49
 672,male,CD,Anti-TNF Only,2092,positive,adult,696,booster2,06-May-22,17-Mar-22,mRNA,49,40 to 49
 673,male,CD,Anti-TNF Only,5957,positive,adult,738,booster2,17-Jun-22,28-Apr-22,mRNA,49,40 to 49
-674,female,CD,Anti-TNF Only,312,positive,adult,101,Pre-1st,13-Mar-21,22-Jan-21,mRNA,29,18 to 29
+674,female,CD,Anti-TNF Only,312,positive,adult,101,pre_dose,13-Mar-21,22-Jan-21,mRNA,29,18 to 29
 675,female,CD,Anti-TNF Only,12262,positive,adult,273,booster1,01-Sep-21,13-Jul-21,mRNA,29,18 to 29
-676,male,UC,Combination Therapy,1062,positive,adult,119,Pre-1st,08-Apr-21,17-Feb-21,mRNA,44,40 to 49
+676,male,UC,Combination Therapy,1062,positive,adult,119,pre_dose,08-Apr-21,17-Feb-21,mRNA,44,40 to 49
 677,male,UC,Combination Therapy,25049,positive,adult,199,primary,27-Jun-21,08-May-21,mRNA,44,40 to 49
 678,male,UC,Combination Therapy,78205,positive,adult,238,booster1,05-Aug-21,16-Jun-21,mRNA,44,40 to 49
 679,male,UC,Combination Therapy,12344,positive,adult,77,booster1,23-Dec-21,03-Nov-21,mRNA,45,40 to 49
@@ -686,7 +686,7 @@ index,sex,IBD_type,med_class,antibody_level,seroconversion,age_group,DX_days,vac
 685,female,CD,Combination Therapy,185,positive,adult,98,booster1,22-Dec-21,02-Nov-21,mRNA,49,40 to 49
 686,female,CD,Combination Therapy,6608,positive,adult,32,booster2,26-Feb-22,07-Jan-22,mRNA,49,40 to 49
 687,female,CD,Combination Therapy,9582,positive,adult,73,booster2,11-Jun-22,22-Apr-22,mRNA,49,40 to 49
-688,female,CD,Anti-TNF Only,49,negative,adult,,Pre-1st,16-Mar-21,25-Jan-21,vector,61,60 to 69
+688,female,CD,Anti-TNF Only,49,negative,adult,,pre_dose,16-Mar-21,25-Jan-21,vector,61,60 to 69
 689,female,CD,Anti-TNF Only,247,positive,adult,23,primary,18-May-21,29-Mar-21,vector,61,60 to 69
 690,female,CD,Anti-TNF Only,1909,positive,adult,,booster1,20-Jul-21,31-May-21,vector,61,60 to 69
 691,female,CD,Anti-TNF Only,844,positive,adult,,booster1,18-Sep-21,30-Jul-21,vector,61,60 to 69
@@ -700,12 +700,12 @@ index,sex,IBD_type,med_class,antibody_level,seroconversion,age_group,DX_days,vac
 699,female,CD,Combination Therapy,227,positive,adult,,booster2,18-Feb-22,30-Dec-21,mRNA,56,50 to 59
 700,female,CD,Combination Therapy,2224,positive,adult,401,booster2,19-Apr-22,28-Feb-22,mRNA,56,50 to 59
 701,female,CD,Combination Therapy,381,positive,adult,350,booster2,04-Aug-22,15-Jun-22,mRNA,57,50 to 59
-702,male,UC,Anti-TNF Only,41,negative,adult,210,Pre-1st,29-Dec-20,09-Nov-20,mRNA,59,50 to 59
+702,male,UC,Anti-TNF Only,41,negative,adult,210,pre_dose,29-Dec-20,09-Nov-20,mRNA,59,50 to 59
 703,male,UC,Anti-TNF Only,,,adult,39,primary,27-May-21,07-Apr-21,mRNA,59,50 to 59
 704,male,UC,Anti-TNF Only,1876,positive,adult,,booster1,06-Aug-21,17-Jun-21,mRNA,59,50 to 59
 705,male,UC,Anti-TNF Only,6928,positive,adult,,booster2,07-Nov-21,18-Sep-21,mRNA,59,50 to 59
-706,female,CD,Anti-TNF Only,239,positive,adult,,Pre-1st,21-Jan-21,02-Dec-20,mRNA,56,50 to 59
-707,female,CD,Anti-TNF Only,164,positive,adult,,Pre-1st,24-Feb-21,05-Jan-21,mRNA,57,50 to 59
+706,female,CD,Anti-TNF Only,239,positive,adult,,pre_dose,21-Jan-21,02-Dec-20,mRNA,56,50 to 59
+707,female,CD,Anti-TNF Only,164,positive,adult,,pre_dose,24-Feb-21,05-Jan-21,mRNA,57,50 to 59
 708,female,CD,Anti-TNF Only,2487,positive,adult,,booster1,16-Jun-21,27-Apr-21,mRNA,57,50 to 59
 709,female,CD,Anti-TNF Only,2175,positive,adult,401,booster1,05-Aug-21,16-Jun-21,mRNA,57,50 to 59
 710,female,CD,Anti-TNF Only,1333,positive,adult,291,booster1,02-Oct-21,13-Aug-21,mRNA,57,50 to 59
@@ -713,7 +713,7 @@ index,sex,IBD_type,med_class,antibody_level,seroconversion,age_group,DX_days,vac
 712,female,CD,Anti-TNF Only,3286,positive,adult,540,booster2,08-Jun-22,19-Apr-22,mRNA,58,50 to 59
 713,female,CD,Anti-TNF Only,1631,positive,elderly,321,booster1,22-Jul-21,02-Jun-21,mRNA,66,60 to 69
 714,female,CD,Anti-TNF Only,375,positive,elderly,197,booster2,23-Nov-21,04-Oct-21,mRNA,66,60 to 69
-715,male,CD,Combination Therapy,23,negative,adult,210,Pre-1st,29-Jul-21,09-Jun-21,vector,56,50 to 59
+715,male,CD,Combination Therapy,23,negative,adult,210,pre_dose,29-Jul-21,09-Jun-21,vector,56,50 to 59
 716,male,CD,Vedolizumab Only,2933,positive,adult,,booster1,27-Jul-21,07-Jun-21,mRNA,46,40 to 49
 717,male,CD,Vedolizumab Only,4613,positive,adult,,booster2,18-Nov-21,29-Sep-21,mRNA,46,40 to 49
 718,male,CD,Vedolizumab Only,2114,positive,adult,,booster2,02-Feb-22,14-Dec-21,mRNA,46,40 to 49
@@ -726,14 +726,14 @@ index,sex,IBD_type,med_class,antibody_level,seroconversion,age_group,DX_days,vac
 725,male,CD,Combination Therapy,145,positive,adult,185,booster1,13-Aug-21,24-Jun-21,vector,59,50 to 59
 726,male,CD,Combination Therapy,664,positive,adult,93,booster2,13-Nov-21,24-Sep-21,vector,59,50 to 59
 727,male,CD,Combination Therapy,170,positive,adult,10,booster2,04-Feb-22,16-Dec-21,vector,59,50 to 59
-728,male,CD,Anti-TNF Only,15,negative,adult,,Pre-1st,31-Mar-21,09-Feb-21,mRNA,61,60 to 69
+728,male,CD,Anti-TNF Only,15,negative,adult,,pre_dose,31-Mar-21,09-Feb-21,mRNA,61,60 to 69
 729,male,CD,Anti-TNF Only,6180,positive,adult,210,booster2,11-Nov-21,22-Sep-21,mRNA,61,60 to 69
 730,male,CD,Anti-TNF Only,781,positive,adult,,booster2,09-Mar-22,18-Jan-22,mRNA,62,60 to 69
 731,male,CD,Anti-TNF Only,5735,positive,adult,,booster2,04-May-22,15-Mar-22,mRNA,62,60 to 69
 732,male,CD,Anti-TNF Only,2102,positive,adult,,booster2,05-Aug-22,16-Jun-22,mRNA,62,60 to 69
 733,female,CD,Anti-TNF Only,390,positive,adult,243,booster1,18-Aug-21,29-Jun-21,mRNA,40,40 to 49
 734,female,CD,Anti-TNF Only,4748,positive,adult,137,booster2,02-Dec-21,13-Oct-21,mRNA,40,40 to 49
-735,female,CD,Anti-TNF Only,94,negative,adult,159,Pre-1st,28-May-21,08-Apr-21,mRNA,42,40 to 49
+735,female,CD,Anti-TNF Only,94,negative,adult,159,pre_dose,28-May-21,08-Apr-21,mRNA,42,40 to 49
 736,female,CD,Anti-TNF Only,5862,positive,adult,256,booster1,02-Sep-21,14-Jul-21,mRNA,42,40 to 49
 737,female,CD,Anti-TNF Only,4938,positive,adult,414,booster2,07-Feb-22,19-Dec-21,mRNA,43,40 to 49
 738,female,CD,Anti-TNF Only,,,adult,,booster1,01-Aug-21,12-Jun-21,mRNA,48,40 to 49
@@ -748,21 +748,21 @@ index,sex,IBD_type,med_class,antibody_level,seroconversion,age_group,DX_days,vac
 747,female,CD,Combination Therapy,18812,positive,adult,251,booster1,14-Aug-21,25-Jun-21,mRNA,47,40 to 49
 748,female,CD,Combination Therapy,55369,positive,adult,133,booster2,10-Dec-21,21-Oct-21,mRNA,47,40 to 49
 749,female,CD,Combination Therapy,10223,positive,adult,,booster2,05-Apr-22,14-Feb-22,mRNA,47,40 to 49
-750,female,UC,No Immunosuppressives,75,negative,adult,83,Pre-1st,02-Jan-21,13-Nov-20,mRNA,34,30 to 39
+750,female,UC,No Immunosuppressives,75,negative,adult,83,pre_dose,02-Jan-21,13-Nov-20,mRNA,34,30 to 39
 751,female,UC,No Immunosuppressives,20732,positive,adult,293,booster1,31-Jul-21,11-Jun-21,mRNA,35,30 to 39
 752,female,UC,No Immunosuppressives,47241,positive,adult,607,booster2,10-Jun-22,21-Apr-22,mRNA,35,30 to 39
-753,male,CD,Combination Therapy,191,positive,adult,57,Pre-1st,10-Feb-21,22-Dec-20,mRNA,33,30 to 39
+753,male,CD,Combination Therapy,191,positive,adult,57,pre_dose,10-Feb-21,22-Dec-20,mRNA,33,30 to 39
 754,male,CD,Combination Therapy,858,positive,adult,226,booster1,29-Jul-21,09-Jun-21,mRNA,33,30 to 39
-755,female,UC,Anti-TNF Only,513,positive,adult,73,Pre-1st,19-Feb-21,31-Dec-20,vector,47,40 to 49
+755,female,UC,Anti-TNF Only,513,positive,adult,73,pre_dose,19-Feb-21,31-Dec-20,vector,47,40 to 49
 756,female,UC,Anti-TNF Only,7120,positive,adult,217,primary,13-Jul-21,24-May-21,vector,48,40 to 49
 757,female,UC,Anti-TNF Only,5127,positive,adult,240,booster1,05-Aug-21,16-Jun-21,vector,48,40 to 49
 758,female,UC,Anti-TNF Only,1211,positive,adult,336,booster1,09-Nov-21,20-Sep-21,vector,48,40 to 49
-759,female,UC,No Immunosuppressives,1733,positive,adult,,Pre-1st,16-Feb-21,28-Dec-20,mRNA,51,50 to 59
+759,female,UC,No Immunosuppressives,1733,positive,adult,,pre_dose,16-Feb-21,28-Dec-20,mRNA,51,50 to 59
 760,female,UC,No Immunosuppressives,6789,positive,adult,257,booster1,14-Aug-21,25-Jun-21,mRNA,51,50 to 59
 761,female,UC,No Immunosuppressives,19629,positive,adult,347,booster2,12-Nov-21,23-Sep-21,mRNA,51,50 to 59
 762,female,UC,No Immunosuppressives,3438,positive,adult,491,booster2,05-Apr-22,14-Feb-22,mRNA,52,50 to 59
 763,female,CD,Ustekinumab Only,291,positive,adult,,booster1,29-Oct-21,09-Sep-21,mRNA,56,50 to 59
-764,female,CD,Combination Therapy,82,negative,adult,,Pre-1st,14-Jan-21,25-Nov-20,mRNA,52,50 to 59
+764,female,CD,Combination Therapy,82,negative,adult,,pre_dose,14-Jan-21,25-Nov-20,mRNA,52,50 to 59
 765,female,CD,Combination Therapy,3693,positive,adult,,booster1,29-Jul-21,09-Jun-21,mRNA,53,50 to 59
 766,female,CD,Combination Therapy,50038,positive,adult,,booster2,03-Feb-22,15-Dec-21,mRNA,53,50 to 59
 767,female,CD,Combination Therapy,40062,positive,adult,,booster2,03-Jun-22,14-Apr-22,mRNA,53,50 to 59
@@ -787,7 +787,7 @@ index,sex,IBD_type,med_class,antibody_level,seroconversion,age_group,DX_days,vac
 786,male,UC,Anti-TNF Only,3258,positive,adult,173,booster1,26-Aug-21,07-Jul-21,mRNA,34,30 to 39
 787,male,UC,Anti-TNF Only,16700,positive,adult,89,booster2,18-Nov-21,29-Sep-21,mRNA,34,30 to 39
 788,male,UC,Anti-TNF Only,29261,positive,adult,14,booster2,01-Mar-22,10-Jan-22,mRNA,35,30 to 39
-789,female,CD,Anti-TNF Only,5,negative,adult,,Pre-1st,07-Apr-21,16-Feb-21,mRNA,51,50 to 59
+789,female,CD,Anti-TNF Only,5,negative,adult,,pre_dose,07-Apr-21,16-Feb-21,mRNA,51,50 to 59
 790,female,CD,Anti-TNF Only,165,positive,adult,,primary,01-Jun-21,12-Apr-21,mRNA,51,50 to 59
 791,female,UC,Anti-TNF Only,1703,positive,adult,,booster1,27-Jul-22,07-Jun-22,mRNA,54,50 to 59
 792,male,CD,Vedolizumab Only,777,positive,elderly,,primary,11-May-21,22-Mar-21,mRNA,68,60 to 69
@@ -804,24 +804,24 @@ index,sex,IBD_type,med_class,antibody_level,seroconversion,age_group,DX_days,vac
 803,female,CD,Anti-TNF Only,10078,positive,adult,,primary,03-Mar-21,12-Jan-21,vector,32,30 to 39
 804,female,CD,Anti-TNF Only,1019,positive,adult,,booster1,27-Jul-21,07-Jun-21,vector,32,30 to 39
 805,female,CD,Anti-TNF Only,6393,positive,adult,,booster2,13-Apr-22,22-Feb-22,vector,33,30 to 39
-806,male,UC,Vedolizumab Only,58,negative,adult,,Pre-1st,22-Apr-21,03-Mar-21,mRNA,54,50 to 59
+806,male,UC,Vedolizumab Only,58,negative,adult,,pre_dose,22-Apr-21,03-Mar-21,mRNA,54,50 to 59
 807,male,UC,Vedolizumab Only,40055,positive,adult,,booster2,19-May-22,30-Mar-22,mRNA,55,50 to 59
-808,female,UC,Combination Therapy,24,negative,adult,,Pre-1st,30-Apr-21,11-Mar-21,mRNA,41,40 to 49
+808,female,UC,Combination Therapy,24,negative,adult,,pre_dose,30-Apr-21,11-Mar-21,mRNA,41,40 to 49
 809,female,UC,Combination Therapy,10085,positive,adult,,booster1,23-Jul-21,03-Jun-21,mRNA,41,40 to 49
 810,female,UC,Combination Therapy,142,positive,adult,30,booster1,06-Jan-22,17-Nov-21,mRNA,41,40 to 49
 811,female,UC,Combination Therapy,14112,positive,adult,7,booster1,12-Feb-22,24-Dec-21,mRNA,41,40 to 49
 812,male,UC,Tofacitinib Only,3435,positive,adult,,booster1,29-Aug-21,10-Jul-21,mRNA,32,30 to 39
 813,male,UC,Tofacitinib Only,40061,positive,adult,,booster2,13-Feb-22,25-Dec-21,mRNA,32,30 to 39
-814,female,UC,Anti-TNF Only,1559,positive,adult,31,,31-Dec-20,44146,,34,30 to 39
+814,female,UC,Anti-TNF Only,1559,positive,adult,31,primary,31-Dec-20,44146,,34,30 to 39
 815,male,UC,Ustekinumab Only,2812,positive,adult,173,booster1,12-Aug-21,23-Jun-21,mRNA,22,18 to 29
 816,male,UC,Ustekinumab Only,485,positive,adult,6,booster1,26-Jan-22,07-Dec-21,mRNA,23,18 to 29
 817,male,CD,Ustekinumab Only,2921,positive,elderly,,booster1,23-Jul-21,03-Jun-21,mRNA,66,60 to 69
-818,female,CD,Anti-TNF Only,517,positive,adult,37,Pre-1st,13-Jan-21,24-Nov-20,mRNA,36,30 to 39
-819,female,CD,Anti-TNF Only,203,positive,adult,,Pre-1st,01-Sep-21,13-Jul-21,mRNA,37,30 to 39
+818,female,CD,Anti-TNF Only,517,positive,adult,37,pre_dose,13-Jan-21,24-Nov-20,mRNA,36,30 to 39
+819,female,CD,Anti-TNF Only,203,positive,adult,,pre_dose,01-Sep-21,13-Jul-21,mRNA,37,30 to 39
 820,female,CD,Anti-TNF Only,17193,positive,adult,13,booster1,02-Feb-22,14-Dec-21,mRNA,47,40 to 49
 821,female,CD,Anti-TNF Only,6076,positive,adult,145,booster2,14-Jun-22,25-Apr-22,mRNA,48,40 to 49
-822,female,CD,Combination Therapy,,,adult,,,22-Oct-21,44441,,53,50 to 59
-823,male,CD,Anti-TNF Only,75,negative,adult,,,20-Apr-21,44256,,43,40 to 49
+822,female,CD,Combination Therapy,,,adult,,primary,22-Oct-21,44441,,53,50 to 59
+823,male,CD,Anti-TNF Only,75,negative,adult,,primary,20-Apr-21,44256,,43,40 to 49
 824,male,CD,Combination Therapy,2544,positive,adult,221,booster1,30-Jun-21,11-May-21,mRNA,25,18 to 29
 825,male,CD,Combination Therapy,378,positive,adult,127,booster1,02-Oct-21,13-Aug-21,mRNA,26,18 to 29
 826,male,CD,Combination Therapy,10210,positive,adult,32,booster2,10-Mar-22,19-Jan-22,mRNA,26,18 to 29
@@ -830,13 +830,13 @@ index,sex,IBD_type,med_class,antibody_level,seroconversion,age_group,DX_days,vac
 829,male,CD,Ustekinumab Only,11553,positive,elderly,,booster1,11-Aug-21,22-Jun-21,mRNA,64,60 to 69
 830,male,CD,Ustekinumab Only,28819,positive,elderly,,booster2,10-Feb-22,22-Dec-21,mRNA,64,60 to 69
 831,male,CD,Ustekinumab Only,7874,positive,elderly,,booster2,05-May-22,16-Mar-22,mRNA,65,60 to 69
-832,male,CD,Ustekinumab Only,1041,positive,adult,60,Pre-1st,23-Apr-21,04-Mar-21,mRNA,53,50 to 59
+832,male,CD,Ustekinumab Only,1041,positive,adult,60,pre_dose,23-Apr-21,04-Mar-21,mRNA,53,50 to 59
 833,male,CD,Ustekinumab Only,14070,positive,adult,93,primary,26-May-21,06-Apr-21,mRNA,53,50 to 59
 834,male,CD,Ustekinumab Only,21762,positive,adult,166,booster1,07-Aug-21,18-Jun-21,mRNA,53,50 to 59
 835,male,CD,Ustekinumab Only,3005,positive,adult,331,booster1,19-Jan-22,30-Nov-21,mRNA,54,50 to 59
 836,male,CD,Ustekinumab Only,38445,positive,adult,370,booster2,27-Feb-22,08-Jan-22,mRNA,54,50 to 59
 837,male,CD,Ustekinumab Only,22219,positive,adult,484,booster2,21-Jun-22,02-May-22,mRNA,54,50 to 59
-838,male,CD,Combination Therapy,5,negative,adult,,Pre-1st,07-Aug-21,18-Jun-21,mRNA,46,40 to 49
+838,male,CD,Combination Therapy,5,negative,adult,,pre_dose,07-Aug-21,18-Jun-21,mRNA,46,40 to 49
 839,male,CD,Anti-TNF Only,,,adult,,booster1,05-Aug-21,16-Jun-21,vector,35,30 to 39
 840,male,CD,Anti-TNF Only,4577,positive,adult,400,booster1,28-Jan-22,09-Dec-21,vector,36,30 to 39
 841,male,CD,Anti-TNF Only,1191,positive,adult,567,booster1,14-Jul-22,25-May-22,vector,36,30 to 39
@@ -877,9 +877,9 @@ index,sex,IBD_type,med_class,antibody_level,seroconversion,age_group,DX_days,vac
 876,female,CD,Ustekinumab Only,18134,positive,adult,,booster2,07-Jul-22,18-May-22,vector,44,40 to 49
 877,female,UC,Anti-TNF Only,89,negative,adult,190,booster1,04-Aug-21,15-Jun-21,mRNA,41,40 to 49
 878,female,UC,Anti-TNF Only,39389,positive,adult,13,booster2,23-Feb-22,04-Jan-22,mRNA,41,40 to 49
-879,male,CD,Anti-TNF Only,101,negative,adult,,Pre-1st,03-Apr-21,12-Feb-21,mRNA,25,18 to 29
+879,male,CD,Anti-TNF Only,101,negative,adult,,pre_dose,03-Apr-21,12-Feb-21,mRNA,25,18 to 29
 880,male,CD,Anti-TNF Only,172,positive,adult,371,primary,29-May-21,09-Apr-21,mRNA,25,18 to 29
-881,male,UC,Anti-TNF Only,30,negative,adult,,,27-Jul-21,44354,,34,30 to 39
+881,male,UC,Anti-TNF Only,30,negative,adult,,primary,27-Jul-21,44354,,34,30 to 39
 882,male,CD,Corticosteroids,70,negative,elderly,,booster1,14-May-21,25-Mar-21,mRNA,82,70+
 883,male,CD,Corticosteroids,,,elderly,,booster1,11-Jun-21,22-Apr-21,mRNA,82,70+
 884,male,CD,Corticosteroids,13,negative,elderly,,booster1,04-Sep-21,16-Jul-21,mRNA,82,70+
@@ -899,18 +899,18 @@ index,sex,IBD_type,med_class,antibody_level,seroconversion,age_group,DX_days,vac
 898,male,CD,Anti-TNF Only,592,positive,adult,,booster1,28-Aug-21,09-Jul-21,mRNA,39,30 to 39
 899,male,CD,Anti-TNF Only,6338,positive,adult,,booster2,30-Nov-21,11-Oct-21,mRNA,39,30 to 39
 900,male,CD,Anti-TNF Only,1579,positive,adult,,booster2,12-Feb-22,24-Dec-21,mRNA,39,30 to 39
-901,female,CD,Combination Therapy,73,negative,adult,,Pre-1st,24-Mar-21,02-Feb-21,mRNA,31,30 to 39
+901,female,CD,Combination Therapy,73,negative,adult,,pre_dose,24-Mar-21,02-Feb-21,mRNA,31,30 to 39
 902,female,CD,Combination Therapy,202,positive,adult,,primary,18-May-21,29-Mar-21,mRNA,31,30 to 39
 903,female,CD,Combination Therapy,1933,positive,adult,112,booster1,16-Jun-21,27-Apr-21,mRNA,31,30 to 39
 904,female,CD,Combination Therapy,2700,positive,adult,26,booster2,03-Feb-22,15-Dec-21,mRNA,32,30 to 39
 905,male,CD,Anti-TNF Only,131,positive,adult,48,booster1,08-Sep-21,20-Jul-21,mRNA,28,18 to 29
 906,male,CD,Anti-TNF Only,5567,positive,adult,162,booster2,17-Nov-21,28-Sep-21,mRNA,28,18 to 29
-907,male,CD,Ustekinumab Only,23,negative,adult,245,Pre-1st,30-Apr-21,11-Mar-21,vector,56,50 to 59
+907,male,CD,Ustekinumab Only,23,negative,adult,245,pre_dose,30-Apr-21,11-Mar-21,vector,56,50 to 59
 908,male,CD,Ustekinumab Only,2322,positive,adult,275,primary,10-Jun-21,21-Apr-21,vector,56,50 to 59
 909,male,CD,Ustekinumab Only,,,adult,,booster1,05-Aug-21,16-Jun-21,vector,56,50 to 59
 910,male,CD,Ustekinumab Only,69243,positive,adult,,booster2,06-Nov-21,17-Sep-21,vector,57,50 to 59
 911,male,CD,Ustekinumab Only,11219,positive,adult,,booster2,03-Mar-22,12-Jan-22,vector,57,50 to 59
-912,male,CD,Combination Therapy,36,negative,adult,280,Pre-1st,27-Mar-21,05-Feb-21,mRNA,45,40 to 49
+912,male,CD,Combination Therapy,36,negative,adult,280,pre_dose,27-Mar-21,05-Feb-21,mRNA,45,40 to 49
 913,male,CD,Combination Therapy,797,positive,adult,141,booster1,13-Aug-21,24-Jun-21,mRNA,45,40 to 49
 914,male,CD,Combination Therapy,1659,positive,adult,,booster2,01-Jan-22,12-Nov-21,mRNA,46,40 to 49
 915,male,CD,Combination Therapy,16719,positive,adult,56,booster2,26-Feb-22,07-Jan-22,mRNA,46,40 to 49
@@ -918,7 +918,7 @@ index,sex,IBD_type,med_class,antibody_level,seroconversion,age_group,DX_days,vac
 917,male,CD,Corticosteroids,4247,positive,adult,,booster1,31-Jul-21,11-Jun-21,vector,45,40 to 49
 918,male,CD,Combination Therapy,15294,positive,adult,,booster2,04-Dec-21,15-Oct-21,vector,45,40 to 49
 919,male,CD,Combination Therapy,1939,positive,adult,,booster2,09-Mar-22,18-Jan-22,vector,46,40 to 49
-920,female,CD,Combination Therapy,39,negative,elderly,,Pre-1st,23-Mar-21,01-Feb-21,mRNA,63,60 to 69
+920,female,CD,Combination Therapy,39,negative,elderly,,pre_dose,23-Mar-21,01-Feb-21,mRNA,63,60 to 69
 921,female,CD,Combination Therapy,349,positive,elderly,,booster2,26-Nov-21,07-Oct-21,mRNA,64,60 to 69
 922,female,CD,Combination Therapy,60,positive,elderly,,booster2,08-Feb-22,20-Dec-21,mRNA,64,60 to 69
 923,male,UC,Ustekinumab Only,4266,positive,adult,,booster1,03-Aug-21,14-Jun-21,mRNA,37,30 to 39
@@ -927,7 +927,7 @@ index,sex,IBD_type,med_class,antibody_level,seroconversion,age_group,DX_days,vac
 926,male,CD,Anti-TNF Only,3693,positive,elderly,337,booster1,14-Jul-21,25-May-21,vector,65,60 to 69
 927,male,CD,Anti-TNF Only,20096,positive,elderly,135,booster2,01-Feb-22,13-Dec-21,vector,66,60 to 69
 928,male,CD,Anti-TNF Only,2404,positive,elderly,36,booster2,11-May-22,22-Mar-22,vector,66,60 to 69
-929,male,UC,Ustekinumab Only,34,negative,adult,,Pre-1st,19-Mar-21,28-Jan-21,mRNA,54,50 to 59
+929,male,UC,Ustekinumab Only,34,negative,adult,,pre_dose,19-Mar-21,28-Jan-21,mRNA,54,50 to 59
 930,male,UC,Ustekinumab Only,48,negative,adult,,booster1,24-Nov-21,05-Oct-21,mRNA,55,50 to 59
 931,male,UC,Ustekinumab Only,5576,positive,adult,,booster2,02-Feb-22,14-Dec-21,mRNA,55,50 to 59
 932,female,CD,Ustekinumab Only,67,negative,adult,,primary,23-Jun-21,04-May-21,mRNA,41,40 to 49
@@ -937,7 +937,7 @@ index,sex,IBD_type,med_class,antibody_level,seroconversion,age_group,DX_days,vac
 936,female,CD,Anti-TNF Only,72,negative,adult,226,booster1,18-Sep-21,30-Jul-21,mRNA,35,30 to 39
 937,female,CD,Anti-TNF Only,2180,positive,adult,212,booster2,02-Oct-21,13-Aug-21,mRNA,35,30 to 39
 938,female,CD,Anti-TNF Only,158,positive,adult,100,booster2,22-Jan-22,03-Dec-21,mRNA,35,30 to 39
-939,male,CD,Anti-TNF Only,30,negative,elderly,112,Pre-1st,20-Mar-21,29-Jan-21,vector,70,70+
+939,male,CD,Anti-TNF Only,30,negative,elderly,112,pre_dose,20-Mar-21,29-Jan-21,vector,70,70+
 940,male,CD,Anti-TNF Only,117,positive,elderly,,primary,14-May-21,25-Mar-21,vector,70,70+
 941,male,CD,Anti-TNF Only,1632,positive,elderly,,booster1,08-Jul-21,19-May-21,vector,70,70+
 942,male,CD,Anti-TNF Only,761,positive,elderly,,booster1,29-Sep-21,10-Aug-21,vector,70,70+
@@ -945,7 +945,7 @@ index,sex,IBD_type,med_class,antibody_level,seroconversion,age_group,DX_days,vac
 944,male,CD,Anti-TNF Only,3535,positive,elderly,,booster2,28-Jan-22,09-Dec-21,vector,70,70+
 945,male,CD,Ustekinumab Only,80053,positive,elderly,,booster2,20-Apr-22,01-Mar-22,vector,71,70+
 946,male,CD,Ustekinumab Only,80000,positive,elderly,,booster2,20-Jul-22,31-May-22,vector,71,70+
-947,female,CD,Combination Therapy,31,negative,adult,223,Pre-1st,18-Mar-21,27-Jan-21,mRNA,22,18 to 29
+947,female,CD,Combination Therapy,31,negative,adult,223,pre_dose,18-Mar-21,27-Jan-21,mRNA,22,18 to 29
 948,female,CD,Combination Therapy,2990,positive,adult,89,booster1,30-Jul-21,10-Jun-21,mRNA,22,18 to 29
 949,female,CD,Combination Therapy,80083,positive,adult,26,booster2,27-Oct-21,07-Sep-21,mRNA,23,18 to 29
 950,female,CD,Combination Therapy,16307,positive,adult,112,booster2,16-Feb-22,28-Dec-21,mRNA,23,18 to 29
@@ -963,7 +963,7 @@ index,sex,IBD_type,med_class,antibody_level,seroconversion,age_group,DX_days,vac
 962,male,CD,Anti-TNF Only,28,negative,elderly,,booster1,07-Oct-21,18-Aug-21,vector,69,60 to 69
 963,male,CD,Anti-TNF Only,588,positive,elderly,,booster2,27-Jan-22,08-Dec-21,vector,69,60 to 69
 964,male,CD,Ustekinumab Only,1098,positive,adult,,booster1,12-Aug-21,23-Jun-21,mRNA,50,50 to 59
-965,male,CD,Ustekinumab Only,5,negative,adult,,Pre-1st,24-Mar-21,02-Feb-21,vector,29,18 to 29
+965,male,CD,Ustekinumab Only,5,negative,adult,,pre_dose,24-Mar-21,02-Feb-21,vector,29,18 to 29
 966,male,CD,Ustekinumab Only,3754,positive,adult,,primary,02-Jun-21,13-Apr-21,vector,30,30 to 39
 967,male,CD,Ustekinumab Only,52587,positive,adult,,booster2,15-Jun-22,26-Apr-22,vector,31,30 to 39
 968,male,CD,Ustekinumab Only,8685,positive,adult,,booster1,30-Jun-21,11-May-21,mRNA,59,50 to 59
@@ -973,7 +973,7 @@ index,sex,IBD_type,med_class,antibody_level,seroconversion,age_group,DX_days,vac
 972,male,UC,Combination Therapy,143,positive,adult,,primary,05-May-21,16-Mar-21,vector,60,60 to 69
 973,male,UC,Combination Therapy,2528,positive,adult,,booster1,30-Jul-21,10-Jun-21,vector,61,60 to 69
 974,male,UC,Combination Therapy,10733,positive,adult,,booster2,31-May-22,11-Apr-22,vector,61,60 to 69
-975,female,UC,Combination Therapy,19,negative,adult,,Pre-1st,16-Mar-21,25-Jan-21,mRNA,50,50 to 59
+975,female,UC,Combination Therapy,19,negative,adult,,pre_dose,16-Mar-21,25-Jan-21,mRNA,50,50 to 59
 976,female,UC,Combination Therapy,3116,positive,adult,,booster1,11-Aug-21,22-Jun-21,mRNA,51,50 to 59
 977,female,UC,Combination Therapy,14729,positive,adult,,booster2,18-Nov-21,29-Sep-21,mRNA,51,50 to 59
 978,female,UC,Combination Therapy,3052,positive,adult,,booster2,02-Mar-22,11-Jan-22,mRNA,51,50 to 59
@@ -988,10 +988,10 @@ index,sex,IBD_type,med_class,antibody_level,seroconversion,age_group,DX_days,vac
 987,female,CD,Combination Therapy,2597,positive,adult,,booster2,16-Nov-21,27-Sep-21,mRNA,33,30 to 39
 988,female,CD,Combination Therapy,870,positive,adult,,booster2,25-Jan-22,06-Dec-21,mRNA,34,30 to 39
 989,female,CD,Combination Therapy,540,positive,adult,275,booster2,09-Mar-22,18-Jan-22,mRNA,34,30 to 39
-990,male,CD,Vedolizumab Only,54,negative,adult,263,Pre-1st,23-Jan-21,04-Dec-20,mRNA,48,40 to 49
+990,male,CD,Vedolizumab Only,54,negative,adult,263,pre_dose,23-Jan-21,04-Dec-20,mRNA,48,40 to 49
 991,male,CD,Vedolizumab Only,21519,positive,adult,490,booster1,07-Sep-21,19-Jul-21,mRNA,48,40 to 49
 992,male,CD,Vedolizumab Only,6630,positive,adult,634,booster1,29-Jan-22,10-Dec-21,mRNA,49,40 to 49
-993,female,CD,Ustekinumab Only,57,negative,adult,,Pre-1st,17-Mar-21,26-Jan-21,mRNA,55,50 to 59
+993,female,CD,Ustekinumab Only,57,negative,adult,,pre_dose,17-Mar-21,26-Jan-21,mRNA,55,50 to 59
 994,female,CD,Ustekinumab Only,8662,positive,adult,,booster1,05-Aug-21,16-Jun-21,mRNA,55,50 to 59
 995,female,CD,Ustekinumab Only,26178,positive,adult,,booster2,26-Feb-22,07-Jan-22,mRNA,56,50 to 59
 996,female,CD,Ustekinumab Only,42491,positive,adult,,booster2,28-Jul-22,08-Jun-22,mRNA,56,50 to 59
@@ -1002,9 +1002,9 @@ index,sex,IBD_type,med_class,antibody_level,seroconversion,age_group,DX_days,vac
 1001,female,CD,Ustekinumab Only,1803,positive,adult,146,booster1,31-Dec-21,11-Nov-21,vector,48,40 to 49
 1002,female,CD,Ustekinumab Only,76763,positive,adult,120,booster2,12-Feb-22,24-Dec-21,vector,48,40 to 49
 1003,female,CD,Ustekinumab Only,40018,positive,adult,27,booster2,24-May-22,04-Apr-22,vector,48,40 to 49
-1004,male,CD,Anti-TNF Only,6,negative,adult,341,Pre-1st,16-Mar-21,25-Jan-21,vector,41,40 to 49
-1005,male,CD,Anti-TNF Only,31,negative,adult,194,Pre-1st,23-Apr-21,04-Mar-21,vector,41,40 to 49
-1006,male,CD,Anti-TNF Only,40,negative,adult,138,Pre-1st,12-Feb-22,24-Dec-21,vector,42,40 to 49
+1004,male,CD,Anti-TNF Only,6,negative,adult,341,pre_dose,16-Mar-21,25-Jan-21,vector,41,40 to 49
+1005,male,CD,Anti-TNF Only,31,negative,adult,194,pre_dose,23-Apr-21,04-Mar-21,vector,41,40 to 49
+1006,male,CD,Anti-TNF Only,40,negative,adult,138,pre_dose,12-Feb-22,24-Dec-21,vector,42,40 to 49
 1007,male,CD,Ustekinumab Only,3761,positive,adult,61,booster1,05-Aug-21,16-Jun-21,mRNA,34,30 to 39
 1008,male,CD,Ustekinumab Only,5917,positive,adult,30,booster2,03-Nov-21,14-Sep-21,mRNA,34,30 to 39
 1009,male,CD,Ustekinumab Only,2097,positive,adult,233,booster2,08-Feb-22,20-Dec-21,mRNA,34,30 to 39
@@ -1012,7 +1012,7 @@ index,sex,IBD_type,med_class,antibody_level,seroconversion,age_group,DX_days,vac
 1011,male,CD,Combination Therapy,2990,positive,adult,125,booster1,15-Aug-21,26-Jun-21,mRNA,59,50 to 59
 1012,male,CD,Combination Therapy,1025,positive,adult,13,booster2,06-Feb-22,18-Dec-21,mRNA,60,60 to 69
 1013,male,CD,Combination Therapy,923,positive,adult,,booster2,14-Jun-22,25-Apr-22,mRNA,60,60 to 69
-1014,female,CD,Ustekinumab Only,61,negative,adult,,Pre-1st,16-Mar-21,25-Jan-21,mRNA,52,50 to 59
+1014,female,CD,Ustekinumab Only,61,negative,adult,,pre_dose,16-Mar-21,25-Jan-21,mRNA,52,50 to 59
 1015,female,CD,Ustekinumab Only,3018,positive,adult,,booster1,08-Oct-21,19-Aug-21,mRNA,53,50 to 59
 1016,female,CD,Ustekinumab Only,18426,positive,adult,,booster2,12-Nov-21,23-Sep-21,mRNA,53,50 to 59
 1017,female,CD,Ustekinumab Only,5316,positive,adult,,booster2,22-Feb-22,03-Jan-22,mRNA,53,50 to 59
@@ -1022,17 +1022,17 @@ index,sex,IBD_type,med_class,antibody_level,seroconversion,age_group,DX_days,vac
 1021,female,CD,Anti-TNF Only,26078,positive,adult,,booster1,10-Jul-21,21-May-21,vector,40,40 to 49
 1022,female,CD,Anti-TNF Only,13914,positive,adult,,booster2,29-Jan-22,10-Dec-21,vector,41,40 to 49
 1023,female,CD,Anti-TNF Only,18966,positive,adult,,booster2,04-Jun-22,15-Apr-22,vector,41,40 to 49
-1024,female,CD,Ustekinumab Only,434,positive,adult,,Pre-1st,30-Apr-21,11-Mar-21,mRNA,46,40 to 49
+1024,female,CD,Ustekinumab Only,434,positive,adult,,pre_dose,30-Apr-21,11-Mar-21,mRNA,46,40 to 49
 1025,female,CD,Ustekinumab Only,5964,positive,adult,,primary,04-Jun-21,15-Apr-21,mRNA,46,40 to 49
 1026,female,CD,Ustekinumab Only,10403,positive,adult,,booster1,06-Jul-21,17-May-21,mRNA,46,40 to 49
 1027,female,CD,Ustekinumab Only,17872,positive,adult,,booster2,13-Oct-21,24-Aug-21,mRNA,46,40 to 49
 1028,female,CD,Ustekinumab Only,2607,positive,adult,,booster2,01-Feb-22,13-Dec-21,mRNA,47,40 to 49
 1029,female,CD,Ustekinumab Only,18118,positive,adult,120,booster2,23-Mar-22,01-Feb-22,mRNA,47,40 to 49
 1030,female,CD,Ustekinumab Only,7303,positive,adult,,booster2,01-Jul-22,12-May-22,mRNA,47,40 to 49
-1031,female,CD,Combination Therapy,69,negative,adult,,Pre-1st,31-Mar-21,09-Feb-21,mRNA,21,18 to 29
+1031,female,CD,Combination Therapy,69,negative,adult,,pre_dose,31-Mar-21,09-Feb-21,mRNA,21,18 to 29
 1032,female,CD,Combination Therapy,5964,positive,adult,,booster1,26-May-21,06-Apr-21,mRNA,21,18 to 29
 1033,female,CD,Combination Therapy,2520,positive,adult,,booster2,06-Jan-22,17-Nov-21,mRNA,22,18 to 29
-1034,female,CD,Anti-TNF Only,10,negative,adult,,Pre-1st,14-Apr-21,23-Feb-21,vector,56,50 to 59
+1034,female,CD,Anti-TNF Only,10,negative,adult,,pre_dose,14-Apr-21,23-Feb-21,vector,56,50 to 59
 1035,female,CD,Anti-TNF Only,36,negative,adult,390,primary,26-May-21,06-Apr-21,vector,56,50 to 59
 1036,female,CD,Anti-TNF Only,161,positive,adult,300,booster1,12-Aug-21,23-Jun-21,vector,56,50 to 59
 1037,female,CD,Anti-TNF Only,132,positive,adult,185,booster1,02-Sep-21,14-Jul-21,vector,56,50 to 59
@@ -1042,7 +1042,7 @@ index,sex,IBD_type,med_class,antibody_level,seroconversion,age_group,DX_days,vac
 1041,female,CD,Ustekinumab Only,1253,positive,adult,,booster1,01-Aug-21,12-Jun-21,vector,59,50 to 59
 1042,female,CD,Ustekinumab Only,27345,positive,adult,237,booster2,12-Nov-21,23-Sep-21,vector,59,50 to 59
 1043,female,CD,Ustekinumab Only,2429,positive,adult,162,booster2,10-Mar-22,19-Jan-22,vector,60,60 to 69
-1044,female,CD,Anti-TNF Only,96,negative,adult,50,Pre-1st,20-Mar-21,29-Jan-21,mRNA,48,40 to 49
+1044,female,CD,Anti-TNF Only,96,negative,adult,50,pre_dose,20-Mar-21,29-Jan-21,mRNA,48,40 to 49
 1045,female,CD,Anti-TNF Only,9893,positive,adult,56,booster1,09-Jun-21,20-Apr-21,mRNA,48,40 to 49
 1046,female,CD,Anti-TNF Only,405,positive,adult,,booster1,09-Oct-21,20-Aug-21,mRNA,48,40 to 49
 1047,female,CD,Anti-TNF Only,10980,positive,adult,,booster2,20-Nov-21,01-Oct-21,mRNA,48,40 to 49
@@ -1050,9 +1050,9 @@ index,sex,IBD_type,med_class,antibody_level,seroconversion,age_group,DX_days,vac
 1049,female,CD,Anti-TNF Only,137,positive,adult,341,primary,13-May-21,24-Mar-21,vector,58,50 to 59
 1050,female,CD,Anti-TNF Only,2635,positive,adult,225,booster2,28-Oct-21,08-Sep-21,vector,59,50 to 59
 1051,female,CD,Anti-TNF Only,519,positive,adult,169,booster2,26-May-22,06-Apr-22,vector,59,50 to 59
-1052,female,CD,Ustekinumab Only,69,negative,adult,8,Pre-1st,31-Aug-21,12-Jul-21,mRNA,50,50 to 59
-1053,female,CD,Combination Therapy,1194,positive,adult,345,Pre-1st,30-Jan-21,11-Dec-20,mRNA,54,50 to 59
-1054,female,CD,Combination Therapy,970,positive,adult,302,Pre-1st,20-Mar-21,29-Jan-21,mRNA,54,50 to 59
+1052,female,CD,Ustekinumab Only,69,negative,adult,8,pre_dose,31-Aug-21,12-Jul-21,mRNA,50,50 to 59
+1053,female,CD,Combination Therapy,1194,positive,adult,345,pre_dose,30-Jan-21,11-Dec-20,mRNA,54,50 to 59
+1054,female,CD,Combination Therapy,970,positive,adult,302,pre_dose,20-Mar-21,29-Jan-21,mRNA,54,50 to 59
 1055,female,CD,Combination Therapy,12716,positive,adult,187,primary,05-Jun-21,16-Apr-21,mRNA,54,50 to 59
 1056,female,CD,Combination Therapy,61572,positive,adult,36,booster1,10-Jul-21,21-May-21,mRNA,55,50 to 59
 1057,female,CD,Combination Therapy,16299,positive,adult,,booster1,28-Sep-21,09-Aug-21,mRNA,55,50 to 59
@@ -1061,8 +1061,8 @@ index,sex,IBD_type,med_class,antibody_level,seroconversion,age_group,DX_days,vac
 1060,female,CD,Combination Therapy,42141,positive,adult,,booster2,17-Apr-22,26-Feb-22,mRNA,55,50 to 59
 1061,female,UC,Combination Therapy,9400,positive,adult,,booster1,21-Aug-21,02-Jul-21,mRNA,43,40 to 49
 1062,female,UC,Combination Therapy,14789,positive,adult,,booster2,16-Feb-22,28-Dec-21,mRNA,43,40 to 49
-1063,female,CD,Ustekinumab Only,45,negative,adult,,Pre-1st,24-Jan-21,05-Dec-20,mRNA,37,30 to 39
-1064,female,CD,Ustekinumab Only,8,negative,adult,,Pre-1st,24-Jul-21,04-Jun-21,mRNA,38,30 to 39
+1063,female,CD,Ustekinumab Only,45,negative,adult,,pre_dose,24-Jan-21,05-Dec-20,mRNA,37,30 to 39
+1064,female,CD,Ustekinumab Only,8,negative,adult,,pre_dose,24-Jul-21,04-Jun-21,mRNA,38,30 to 39
 1065,female,CD,Ustekinumab Only,105,negative,adult,,primary,27-Jun-21,08-May-21,mRNA,37,30 to 39
 1066,female,CD,Ustekinumab Only,4197,positive,adult,,booster1,20-Aug-21,01-Jul-21,mRNA,38,30 to 39
 1067,female,CD,Ustekinumab Only,2265,positive,adult,23,booster2,12-Nov-21,23-Sep-21,mRNA,38,30 to 39
@@ -1070,7 +1070,7 @@ index,sex,IBD_type,med_class,antibody_level,seroconversion,age_group,DX_days,vac
 1069,female,CD,Anti-TNF Only,1013,positive,adult,138,booster1,12-Aug-21,23-Jun-21,mRNA,29,18 to 29
 1070,female,CD,Anti-TNF Only,525,positive,adult,355,booster1,23-Sep-21,04-Aug-21,mRNA,29,18 to 29
 1071,female,CD,Anti-TNF Only,35361,positive,adult,232,booster2,30-Jan-22,11-Dec-21,mRNA,29,18 to 29
-1072,female,CD,Combination Therapy,10,negative,adult,137,Pre-1st,31-Mar-21,09-Feb-21,mRNA,38,30 to 39
+1072,female,CD,Combination Therapy,10,negative,adult,137,pre_dose,31-Mar-21,09-Feb-21,mRNA,38,30 to 39
 1073,female,CD,Combination Therapy,47,negative,adult,64,primary,27-Jun-21,08-May-21,mRNA,39,30 to 39
 1074,female,CD,Combination Therapy,409,positive,adult,,booster1,24-Jul-21,04-Jun-21,mRNA,39,30 to 39
 1075,female,CD,Combination Therapy,4061,positive,adult,117,booster2,14-Oct-21,25-Aug-21,mRNA,39,30 to 39
@@ -1082,17 +1082,17 @@ index,sex,IBD_type,med_class,antibody_level,seroconversion,age_group,DX_days,vac
 1081,female,CD,Anti-TNF Only,295,positive,adult,,booster1,30-Mar-21,08-Feb-21,mRNA,48,40 to 49
 1082,female,CD,Anti-TNF Only,8490,positive,adult,,booster2,28-Dec-21,08-Nov-21,mRNA,48,40 to 49
 1083,female,CD,Anti-TNF Only,2980,positive,adult,,booster2,09-Apr-22,18-Feb-22,mRNA,49,40 to 49
-1084,female,CD,Ustekinumab Only,37,negative,adult,,Pre-1st,16-Apr-21,25-Feb-21,mRNA,57,50 to 59
+1084,female,CD,Ustekinumab Only,37,negative,adult,,pre_dose,16-Apr-21,25-Feb-21,mRNA,57,50 to 59
 1085,female,CD,Ustekinumab Only,906,positive,adult,,booster1,01-Sep-21,13-Jul-21,mRNA,57,50 to 59
 1086,female,CD,Ustekinumab Only,31620,positive,adult,,booster2,29-Jan-22,10-Dec-21,mRNA,58,50 to 59
 1087,female,CD,Ustekinumab Only,42166,positive,adult,,booster2,11-Jun-22,22-Apr-22,mRNA,58,50 to 59
-1088,male,CD,Ustekinumab Only,82,negative,adult,,Pre-1st,07-Apr-21,16-Feb-21,vector,52,50 to 59
+1088,male,CD,Ustekinumab Only,82,negative,adult,,pre_dose,07-Apr-21,16-Feb-21,vector,52,50 to 59
 1089,male,CD,Ustekinumab Only,25747,positive,adult,30,booster2,12-Oct-21,23-Aug-21,vector,53,50 to 59
 1090,male,CD,Ustekinumab Only,9947,positive,adult,,booster2,08-Dec-21,19-Oct-21,vector,53,50 to 59
 1091,male,CD,Ustekinumab Only,164,positive,elderly,,primary,21-May-21,01-Apr-21,mRNA,66,60 to 69
 1092,male,CD,Ustekinumab Only,1436,positive,elderly,359,booster1,11-Aug-21,22-Jun-21,mRNA,67,60 to 69
 1093,male,CD,Ustekinumab Only,18363,positive,elderly,304,booster2,04-May-22,15-Mar-22,mRNA,67,60 to 69
-1094,male,UC,Anti-TNF Only,68,negative,elderly,239,Pre-1st,27-Mar-21,05-Feb-21,mRNA,72,70+
+1094,male,UC,Anti-TNF Only,68,negative,elderly,239,pre_dose,27-Mar-21,05-Feb-21,mRNA,72,70+
 1095,male,UC,Anti-TNF Only,561,positive,elderly,220,booster2,25-Feb-22,06-Jan-22,mRNA,73,70+
 1096,male,UC,Anti-TNF Only,403,positive,elderly,112,booster2,04-May-22,15-Mar-22,mRNA,73,70+
 1097,male,UC,Anti-TNF Only,12013,positive,elderly,50,booster2,19-May-22,30-Mar-22,mRNA,73,70+
@@ -1117,7 +1117,7 @@ index,sex,IBD_type,med_class,antibody_level,seroconversion,age_group,DX_days,vac
 1116,female,CD,Anti-TNF Only,713,positive,adult,,booster1,02-Oct-21,13-Aug-21,mRNA,59,50 to 59
 1117,female,CD,Anti-TNF Only,883,positive,adult,,booster2,22-Jan-22,03-Dec-21,mRNA,60,60 to 69
 1118,female,CD,Anti-TNF Only,2550,positive,adult,,booster2,17-May-22,28-Mar-22,mRNA,60,60 to 69
-1119,female,CD,Combination Therapy,57,negative,adult,125,Pre-1st,02-May-21,13-Mar-21,mRNA,35,30 to 39
+1119,female,CD,Combination Therapy,57,negative,adult,125,pre_dose,02-May-21,13-Mar-21,mRNA,35,30 to 39
 1120,female,CD,Combination Therapy,83,negative,adult,,primary,25-Jun-21,06-May-21,mRNA,35,30 to 39
 1121,female,CD,Combination Therapy,543,positive,adult,,booster1,05-Sep-21,17-Jul-21,mRNA,35,30 to 39
 1122,female,CD,Combination Therapy,717,positive,adult,,booster2,18-Feb-22,30-Dec-21,mRNA,36,30 to 39
@@ -1125,7 +1125,7 @@ index,sex,IBD_type,med_class,antibody_level,seroconversion,age_group,DX_days,vac
 1124,male,CD,Ustekinumab Only,3194,positive,adult,,primary,19-May-21,30-Mar-21,vector,56,50 to 59
 1125,male,CD,Ustekinumab Only,19982,positive,adult,,booster1,03-Sep-21,15-Jul-21,vector,56,50 to 59
 1126,male,CD,Ustekinumab Only,3963,positive,adult,,booster1,04-Mar-22,13-Jan-22,vector,56,50 to 59
-1127,female,CD,Combination Therapy,44,negative,adult,43,Pre-1st,20-Feb-21,01-Jan-21,mRNA,42,40 to 49
+1127,female,CD,Combination Therapy,44,negative,adult,43,pre_dose,20-Feb-21,01-Jan-21,mRNA,42,40 to 49
 1128,female,CD,Combination Therapy,337,positive,adult,159,primary,16-Jun-21,27-Apr-21,mRNA,42,40 to 49
 1129,female,CD,Vedolizumab Only,919,positive,adult,13,booster1,24-Jul-21,04-Jun-21,mRNA,42,40 to 49
 1130,female,CD,Combination Therapy,2488,positive,adult,302,booster2,06-Nov-21,17-Sep-21,mRNA,42,40 to 49
@@ -1135,32 +1135,32 @@ index,sex,IBD_type,med_class,antibody_level,seroconversion,age_group,DX_days,vac
 1134,female,CD,Anti-TNF Only,3780,positive,adult,,booster1,11-Sep-21,23-Jul-21,mRNA,33,30 to 39
 1135,female,CD,Anti-TNF Only,4291,positive,adult,,booster2,04-Feb-22,16-Dec-21,mRNA,34,30 to 39
 1136,female,CD,Anti-TNF Only,9972,positive,adult,,booster2,13-May-22,24-Mar-22,mRNA,34,30 to 39
-1137,male,UC,Anti-TNF Only,22,negative,adult,,Pre-1st,16-Apr-21,25-Feb-21,vector,34,30 to 39
+1137,male,UC,Anti-TNF Only,22,negative,adult,,pre_dose,16-Apr-21,25-Feb-21,vector,34,30 to 39
 1138,male,UC,Anti-TNF Only,783,positive,adult,,primary,10-Jun-21,21-Apr-21,vector,34,30 to 39
 1139,male,UC,Vedolizumab Only,2192,positive,adult,,booster1,30-Jul-21,10-Jun-21,vector,34,30 to 39
 1140,male,UC,Vedolizumab Only,24205,positive,adult,,booster2,13-Nov-21,24-Sep-21,vector,34,30 to 39
 1141,male,UC,Anti-TNF Only,1986,positive,adult,,booster2,12-Apr-22,21-Feb-22,vector,35,30 to 39
-1142,female,CD,Anti-TNF Only,390,positive,adult,,,26-Feb-21,44203,,32,30 to 39
-1143,female,CD,Anti-TNF Only,98,positive,adult,,,10-Sep-21,44399,,33,30 to 39
-1144,female,CD,Combination Therapy,84,negative,adult,,Pre-1st,22-Apr-21,03-Mar-21,mRNA,48,40 to 49
-1145,female,CD,Vedolizumab Only,30,negative,adult,352,Pre-1st,07-May-21,18-Mar-21,vector,42,40 to 49
-1146,male,CD,Vedolizumab Only,39,negative,adult,,Pre-1st,23-Mar-21,01-Feb-21,mRNA,53,50 to 59
+1142,female,CD,Anti-TNF Only,390,positive,adult,,primary,26-Feb-21,44203,,32,30 to 39
+1143,female,CD,Anti-TNF Only,98,positive,adult,,primary,10-Sep-21,44399,,33,30 to 39
+1144,female,CD,Combination Therapy,84,negative,adult,,pre_dose,22-Apr-21,03-Mar-21,mRNA,48,40 to 49
+1145,female,CD,Vedolizumab Only,30,negative,adult,352,pre_dose,07-May-21,18-Mar-21,vector,42,40 to 49
+1146,male,CD,Vedolizumab Only,39,negative,adult,,pre_dose,23-Mar-21,01-Feb-21,mRNA,53,50 to 59
 1147,male,CD,Vedolizumab Only,1627,positive,adult,,primary,22-May-21,02-Apr-21,mRNA,54,50 to 59
-1148,female,UC,Anti-TNF Only,102,negative,adult,,Pre-1st,23-Mar-21,01-Feb-21,mRNA,45,40 to 49
+1148,female,UC,Anti-TNF Only,102,negative,adult,,pre_dose,23-Mar-21,01-Feb-21,mRNA,45,40 to 49
 1149,female,UC,Anti-TNF Only,27051,positive,adult,,booster1,22-Jun-21,03-May-21,mRNA,45,40 to 49
 1150,female,UC,Anti-TNF Only,24172,positive,adult,,booster2,08-Oct-21,19-Aug-21,mRNA,45,40 to 49
 1151,female,UC,Anti-TNF Only,4244,positive,adult,,booster2,24-Mar-22,02-Feb-22,mRNA,46,40 to 49
 1152,female,UC,Anti-TNF Only,12339,positive,adult,,booster2,24-Jun-22,05-May-22,mRNA,46,40 to 49
-1153,male,CD,Ustekinumab Only,101,negative,adult,,Pre-1st,18-Mar-21,27-Jan-21,mRNA,37,30 to 39
+1153,male,CD,Ustekinumab Only,101,negative,adult,,pre_dose,18-Mar-21,27-Jan-21,mRNA,37,30 to 39
 1154,male,CD,Ustekinumab Only,9265,positive,adult,,booster1,11-Aug-21,22-Jun-21,mRNA,37,30 to 39
 1155,male,CD,Ustekinumab Only,14231,positive,adult,,booster2,26-Jan-22,07-Dec-21,mRNA,38,30 to 39
 1156,male,CD,Ustekinumab Only,8088,positive,adult,,booster2,19-Apr-22,28-Feb-22,mRNA,38,30 to 39
-1157,male,UC,Combination Therapy,9,negative,adult,,Pre-1st,20-Mar-21,29-Jan-21,mRNA,32,30 to 39
+1157,male,UC,Combination Therapy,9,negative,adult,,pre_dose,20-Mar-21,29-Jan-21,mRNA,32,30 to 39
 1158,male,UC,Combination Therapy,1227,positive,adult,,booster1,02-Sep-21,14-Jul-21,mRNA,33,30 to 39
 1159,male,UC,Combination Therapy,417,positive,adult,,booster2,18-Feb-22,30-Dec-21,mRNA,33,30 to 39
 1160,male,UC,Combination Therapy,475,positive,adult,,booster2,09-Jun-22,20-Apr-22,mRNA,33,30 to 39
-1161,male,CD,Anti-TNF Only,26,negative,adult,,Pre-1st,20-Mar-21,29-Jan-21,mRNA,37,30 to 39
-1162,male,CD,Anti-TNF Only,66,negative,adult,44,Pre-1st,13-Apr-21,22-Feb-21,mRNA,51,50 to 59
+1161,male,CD,Anti-TNF Only,26,negative,adult,,pre_dose,20-Mar-21,29-Jan-21,mRNA,37,30 to 39
+1162,male,CD,Anti-TNF Only,66,negative,adult,44,pre_dose,13-Apr-21,22-Feb-21,mRNA,51,50 to 59
 1163,male,CD,Anti-TNF Only,1339,positive,adult,,primary,27-May-21,07-Apr-21,mRNA,51,50 to 59
 1164,male,CD,Anti-TNF Only,630,positive,adult,96,booster1,31-Aug-21,12-Jul-21,mRNA,51,50 to 59
 1165,male,CD,Anti-TNF Only,242,positive,adult,142,booster1,16-Oct-21,27-Aug-21,mRNA,51,50 to 59
@@ -1168,11 +1168,11 @@ index,sex,IBD_type,med_class,antibody_level,seroconversion,age_group,DX_days,vac
 1167,male,CD,Anti-TNF Only,24336,positive,adult,331,booster2,23-Apr-22,04-Mar-22,mRNA,52,50 to 59
 1168,male,CD,Anti-TNF Only,3661,positive,adult,404,booster2,05-Jul-22,16-May-22,mRNA,52,50 to 59
 1169,male,UC,Vedolizumab Only,67,negative,elderly,,primary,03-Jun-21,14-Apr-21,mRNA,67,60 to 69
-1170,male,CD,Combination Therapy,85,positive,adult,93,Pre-1st,21-Apr-21,02-Mar-21,mRNA,21,18 to 29
+1170,male,CD,Combination Therapy,85,positive,adult,93,pre_dose,21-Apr-21,02-Mar-21,mRNA,21,18 to 29
 1171,male,CD,Combination Therapy,9750,positive,adult,206,booster1,12-Aug-21,23-Jun-21,mRNA,21,18 to 29
 1172,male,UC,Combination Therapy,2132,positive,adult,148,booster1,09-Sep-21,21-Jul-21,mRNA,41,40 to 49
 1173,male,UC,Combination Therapy,40055,positive,adult,132,booster2,16-Jun-22,27-Apr-22,mRNA,41,40 to 49
-1174,female,UC,Anti-TNF Only,78,negative,adult,,Pre-1st,24-Mar-21,02-Feb-21,mRNA,34,30 to 39
+1174,female,UC,Anti-TNF Only,78,negative,adult,,pre_dose,24-Mar-21,02-Feb-21,mRNA,34,30 to 39
 1175,female,UC,Anti-TNF Only,10195,positive,adult,,booster2,02-Nov-21,13-Sep-21,mRNA,35,30 to 39
 1176,female,UC,Anti-TNF Only,1354,positive,adult,,booster2,23-Feb-22,04-Jan-22,mRNA,35,30 to 39
 1177,female,CD,Anti-TNF Only,187,positive,adult,232,primary,09-Mar-21,18-Jan-21,mRNA,53,50 to 59
@@ -1180,33 +1180,33 @@ index,sex,IBD_type,med_class,antibody_level,seroconversion,age_group,DX_days,vac
 1179,male,UC,Anti-TNF Only,8134,positive,adult,,booster1,18-Aug-21,29-Jun-21,mRNA,33,30 to 39
 1180,male,UC,Anti-TNF Only,790,positive,adult,5,booster1,14-Jan-22,25-Nov-21,mRNA,33,30 to 39
 1181,male,UC,Anti-TNF Only,40046,positive,adult,129,booster2,28-May-22,08-Apr-22,mRNA,34,30 to 39
-1182,male,CD,Anti-TNF Only,20,negative,adult,102,,29-Sep-21,44418,,45,40 to 49
-1183,male,UC,Anti-TNF Only,177,positive,adult,164,Pre-1st,12-Feb-21,24-Dec-20,mRNA,29,18 to 29
+1182,male,CD,Anti-TNF Only,20,negative,adult,102,primary,29-Sep-21,44418,,45,40 to 49
+1183,male,UC,Anti-TNF Only,177,positive,adult,164,pre_dose,12-Feb-21,24-Dec-20,mRNA,29,18 to 29
 1184,male,UC,Anti-TNF Only,17888,positive,adult,682,booster1,15-Jul-22,26-May-22,mRNA,30,30 to 39
 1185,female,CD,Anti-TNF Only,3029,positive,adult,223,booster1,27-Aug-21,08-Jul-21,mRNA,52,50 to 59
 1186,female,CD,Anti-TNF Only,11702,positive,adult,125,booster2,03-Dec-21,14-Oct-21,mRNA,53,50 to 59
 1187,female,CD,Anti-TNF Only,262,positive,adult,,booster1,10-Jun-21,21-Apr-21,mRNA,43,40 to 49
 1188,female,CD,Anti-TNF Only,97,positive,adult,,booster1,25-Sep-21,06-Aug-21,mRNA,43,40 to 49
 1189,female,CD,Anti-TNF Only,1996,positive,adult,,booster2,02-Jul-22,13-May-22,mRNA,44,40 to 49
-1190,male,CD,Vedolizumab Only,68,negative,adult,,Pre-1st,18-Mar-21,27-Jan-21,mRNA,34,30 to 39
+1190,male,CD,Vedolizumab Only,68,negative,adult,,pre_dose,18-Mar-21,27-Jan-21,mRNA,34,30 to 39
 1191,male,CD,Vedolizumab Only,25353,positive,adult,,booster1,02-Sep-21,14-Jul-21,mRNA,34,30 to 39
 1192,male,CD,Vedolizumab Only,18868,positive,adult,,booster2,16-Feb-22,28-Dec-21,mRNA,35,30 to 39
 1193,male,CD,Vedolizumab Only,5250,positive,adult,,booster1,21-Jul-21,01-Jun-21,mRNA,35,30 to 39
 1194,male,CD,Vedolizumab Only,1984,positive,adult,,booster1,08-Oct-21,19-Aug-21,mRNA,35,30 to 39
 1195,male,CD,Vedolizumab Only,4112,positive,adult,,booster2,11-Mar-22,20-Jan-22,mRNA,36,30 to 39
-1196,female,CD,Vedolizumab Only,38,negative,adult,,Pre-1st,08-Apr-21,17-Feb-21,vector,39,30 to 39
-1197,female,CD,Vedolizumab Only,24,negative,adult,,Pre-1st,29-Jul-21,09-Jun-21,vector,39,30 to 39
+1196,female,CD,Vedolizumab Only,38,negative,adult,,pre_dose,08-Apr-21,17-Feb-21,vector,39,30 to 39
+1197,female,CD,Vedolizumab Only,24,negative,adult,,pre_dose,29-Jul-21,09-Jun-21,vector,39,30 to 39
 1198,male,CD,Anti-TNF Only,96,negative,elderly,,primary,15-Apr-21,24-Feb-21,mRNA,81,70+
 1199,male,CD,Anti-TNF Only,713,positive,elderly,146,booster1,27-May-21,07-Apr-21,mRNA,81,70+
 1200,male,CD,Anti-TNF Only,98,negative,elderly,,booster1,11-Sep-21,23-Jul-21,mRNA,82,70+
 1201,male,CD,Anti-TNF Only,713,positive,elderly,,booster2,30-Dec-21,10-Nov-21,mRNA,82,70+
 1202,male,CD,Anti-TNF Only,289,positive,elderly,,booster2,04-Mar-22,13-Jan-22,mRNA,82,70+
-1203,female,CD,Ustekinumab Only,1533,positive,adult,,Pre-1st,29-May-21,09-Apr-21,vector,28,18 to 29
+1203,female,CD,Ustekinumab Only,1533,positive,adult,,pre_dose,29-May-21,09-Apr-21,vector,28,18 to 29
 1204,female,CD,Vedolizumab Only,38900,positive,elderly,,booster1,12-Mar-21,21-Jan-21,mRNA,65,60 to 69
 1205,female,CD,Vedolizumab Only,5188,positive,elderly,,booster1,06-Oct-21,17-Aug-21,mRNA,66,60 to 69
 1206,female,CD,Vedolizumab Only,8201,positive,elderly,,booster2,10-Feb-22,22-Dec-21,mRNA,66,60 to 69
-1207,male,CD,Anti-TNF Only,30,negative,adult,,Pre-1st,02-Sep-21,14-Jul-21,mRNA,27,18 to 29
-1208,male,CD,Ustekinumab Only,19,negative,adult,,Pre-1st,28-Apr-21,09-Mar-21,mRNA,46,40 to 49
+1207,male,CD,Anti-TNF Only,30,negative,adult,,pre_dose,02-Sep-21,14-Jul-21,mRNA,27,18 to 29
+1208,male,CD,Ustekinumab Only,19,negative,adult,,pre_dose,28-Apr-21,09-Mar-21,mRNA,46,40 to 49
 1209,male,CD,Ustekinumab Only,4217,positive,adult,,booster1,03-Jul-21,14-May-21,mRNA,47,40 to 49
 1210,male,CD,Ustekinumab Only,2101,positive,adult,,booster1,07-Oct-21,18-Aug-21,mRNA,47,40 to 49
 1211,male,CD,Ustekinumab Only,80090,positive,adult,,booster2,11-Feb-22,23-Dec-21,mRNA,47,40 to 49
@@ -1217,18 +1217,18 @@ index,sex,IBD_type,med_class,antibody_level,seroconversion,age_group,DX_days,vac
 1216,female,CD,Anti-TNF Only,80050,positive,adult,160,booster2,04-Aug-22,15-Jun-22,mRNA,23,18 to 29
 1217,female,CD,Ustekinumab Only,254,positive,adult,337,primary,06-Jun-21,17-Apr-21,mRNA,29,18 to 29
 1218,female,CD,Ustekinumab Only,1441,positive,adult,304,booster1,09-Jul-21,20-May-21,mRNA,29,18 to 29
-1219,male,UC,Ustekinumab Only,57,negative,adult,,Pre-1st,10-Apr-21,19-Feb-21,mRNA,17,10 to 17
+1219,male,UC,Ustekinumab Only,57,negative,adult,,pre_dose,10-Apr-21,19-Feb-21,mRNA,17,10 to 17
 1220,male,UC,Ustekinumab Only,10872,positive,adult,,booster1,04-Aug-21,15-Jun-21,mRNA,18,18 to 29
 1221,female,CD,Ustekinumab Only,1374,positive,adult,,booster1,05-Oct-21,16-Aug-21,vector,32,30 to 39
 1222,female,CD,Ustekinumab Only,23,negative,adult,,primary,28-May-21,08-Apr-21,vector,56,50 to 59
 1223,female,CD,Anti-TNF Only,980,positive,adult,,booster1,13-Oct-21,24-Aug-21,vector,56,50 to 59
 1224,female,CD,Anti-TNF Only,14910,positive,adult,,booster2,02-Mar-22,11-Jan-22,vector,57,50 to 59
 1225,female,CD,Anti-TNF Only,3096,positive,adult,,booster2,20-Jul-22,31-May-22,vector,57,50 to 59
-1226,female,CD,Vedolizumab Only,91,negative,adult,,Pre-1st,31-Mar-21,09-Feb-21,mRNA,36,30 to 39
+1226,female,CD,Vedolizumab Only,91,negative,adult,,pre_dose,31-Mar-21,09-Feb-21,mRNA,36,30 to 39
 1227,female,CD,Vedolizumab Only,482,positive,adult,,primary,12-Jun-21,23-Apr-21,mRNA,37,30 to 39
 1228,female,CD,Vedolizumab Only,11025,positive,adult,,booster1,01-Sep-21,13-Jul-21,mRNA,37,30 to 39
 1229,female,CD,Vedolizumab Only,2256,positive,adult,,booster2,23-Feb-22,04-Jan-22,mRNA,37,30 to 39
-1230,male,CD,Anti-TNF Only,2,negative,adult,251,Pre-1st,18-May-21,29-Mar-21,mRNA,42,40 to 49
+1230,male,CD,Anti-TNF Only,2,negative,adult,251,pre_dose,18-May-21,29-Mar-21,mRNA,42,40 to 49
 1231,male,CD,Anti-TNF Only,149,positive,adult,209,primary,29-Jun-21,10-May-21,mRNA,42,40 to 49
 1232,male,CD,Anti-TNF Only,7032,positive,adult,181,booster1,27-Jul-21,07-Jun-21,mRNA,42,40 to 49
 1233,female,CD,Vedolizumab Only,5484,positive,adult,39,primary,05-Jun-21,16-Apr-21,mRNA,48,40 to 49
@@ -1248,19 +1248,19 @@ index,sex,IBD_type,med_class,antibody_level,seroconversion,age_group,DX_days,vac
 1247,male,CD,Combination Therapy,34128,positive,pediatric,462,booster2,01-Jun-22,12-Apr-22,mRNA,13,10 to 17
 1248,female,CD,Ustekinumab Only,7131,positive,pediatric,,booster1,09-Jun-21,20-Apr-21,mRNA,13,10 to 17
 1249,female,CD,Ustekinumab Only,30228,positive,pediatric,,booster2,05-Jan-22,16-Nov-21,mRNA,1,00 to 09
-1250,female,CD,Ustekinumab Only,35,negative,pediatric,,Pre-1st,28-Apr-21,09-Mar-21,vector,5,00 to 09
+1250,female,CD,Ustekinumab Only,35,negative,pediatric,,pre_dose,28-Apr-21,09-Mar-21,vector,5,00 to 09
 1251,female,CD,Ustekinumab Only,105,positive,pediatric,,primary,24-Jun-21,05-May-21,vector,12,10 to 17
 1252,female,CD,Ustekinumab Only,8478,positive,pediatric,,booster1,06-Aug-21,17-Jun-21,vector,5,00 to 09
 1253,female,CD,Ustekinumab Only,748,positive,adult,,booster1,01-Mar-22,10-Jan-22,vector,50,50 to 59
 1254,female,CD,Ustekinumab Only,14807,positive,adult,,booster2,30-Mar-22,08-Feb-22,vector,50,50 to 59
 1255,female,CD,Ustekinumab Only,3779,positive,adult,,booster2,08-Jul-22,19-May-22,vector,51,50 to 59
-1256,male,CD,Ustekinumab Only,12,negative,adult,,Pre-1st,01-May-21,12-Mar-21,vector,33,30 to 39
+1256,male,CD,Ustekinumab Only,12,negative,adult,,pre_dose,01-May-21,12-Mar-21,vector,33,30 to 39
 1257,female,CD,Ustekinumab Only,650,positive,adult,,primary,25-May-21,05-Apr-21,mRNA,34,30 to 39
 1258,female,CD,Ustekinumab Only,16216,positive,adult,,primary,14-Aug-21,25-Jun-21,mRNA,34,30 to 39
 1259,female,CD,Ustekinumab Only,68737,positive,adult,,booster2,26-Jan-22,07-Dec-21,mRNA,34,30 to 39
-1260,female,UC,Anti-TNF Only,,,adult,,,25-Sep-21,44414,,44,40 to 49
+1260,female,UC,Anti-TNF Only,,,adult,,primary,25-Sep-21,44414,,44,40 to 49
 1261,male,CD,Combination Therapy,30354,positive,adult,180,booster2,09-Nov-21,20-Sep-21,mRNA,22,18 to 29
-1262,female,UC,Combination Therapy,78,negative,adult,435,Pre-1st,16-Mar-21,25-Jan-21,mRNA,35,30 to 39
+1262,female,UC,Combination Therapy,78,negative,adult,435,pre_dose,16-Mar-21,25-Jan-21,mRNA,35,30 to 39
 1263,female,UC,Combination Therapy,2324,positive,adult,355,primary,04-Jun-21,15-Apr-21,mRNA,36,30 to 39
 1264,female,UC,Combination Therapy,28127,positive,adult,319,booster1,10-Jul-21,21-May-21,mRNA,36,30 to 39
 1265,female,UC,Combination Therapy,61805,positive,adult,194,booster2,12-Nov-21,23-Sep-21,mRNA,36,30 to 39
@@ -1278,30 +1278,30 @@ index,sex,IBD_type,med_class,antibody_level,seroconversion,age_group,DX_days,vac
 1277,female,CD,Anti-TNF Only,363,positive,adult,,booster1,09-Sep-21,21-Jul-21,mRNA,36,30 to 39
 1278,female,CD,Anti-TNF Only,1802,positive,adult,,booster2,04-Mar-22,13-Jan-22,mRNA,37,30 to 39
 1279,female,CD,Anti-TNF Only,905,positive,adult,,booster2,20-Apr-22,01-Mar-22,mRNA,37,30 to 39
-1280,male,CD,Anti-TNF Only,191,positive,adult,12,Pre-1st,02-Feb-21,14-Dec-20,mRNA,27,18 to 29
-1281,male,CD,Anti-TNF Only,379,positive,adult,68,Pre-1st,30-Mar-21,08-Feb-21,mRNA,27,18 to 29
+1280,male,CD,Anti-TNF Only,191,positive,adult,12,pre_dose,02-Feb-21,14-Dec-20,mRNA,27,18 to 29
+1281,male,CD,Anti-TNF Only,379,positive,adult,68,pre_dose,30-Mar-21,08-Feb-21,mRNA,27,18 to 29
 1282,male,CD,Anti-TNF Only,1041,positive,adult,,primary,15-Jun-21,26-Apr-21,vector,35,30 to 39
-1283,female,UC,Vedolizumab Only,67,negative,adult,,Pre-1st,23-Mar-21,01-Feb-21,mRNA,32,30 to 39
+1283,female,UC,Vedolizumab Only,67,negative,adult,,pre_dose,23-Mar-21,01-Feb-21,mRNA,32,30 to 39
 1284,female,UC,Vedolizumab Only,1265,positive,adult,,primary,18-May-21,29-Mar-21,mRNA,32,30 to 39
 1285,female,UC,Vedolizumab Only,8798,positive,adult,,booster1,02-Sep-21,14-Jul-21,mRNA,33,30 to 39
-1286,female,CD,Anti-TNF Only,144,positive,adult,103,Pre-1st,27-Mar-21,05-Feb-21,mRNA,22,18 to 29
+1286,female,CD,Anti-TNF Only,144,positive,adult,103,pre_dose,27-Mar-21,05-Feb-21,mRNA,22,18 to 29
 1287,female,UC,No Immunosuppressives,20983,positive,adult,87,primary,25-Feb-21,06-Jan-21,mRNA,45,40 to 49
 1288,female,UC,No Immunosuppressives,1834,positive,adult,341,booster1,06-Nov-21,17-Sep-21,mRNA,46,40 to 49
-1289,female,CD,Ustekinumab Only,82,negative,adult,,Pre-1st,21-Apr-21,02-Mar-21,mRNA,56,50 to 59
+1289,female,CD,Ustekinumab Only,82,negative,adult,,pre_dose,21-Apr-21,02-Mar-21,mRNA,56,50 to 59
 1290,female,CD,Ustekinumab Only,1592,positive,adult,,booster1,08-Sep-21,20-Jul-21,mRNA,56,50 to 59
 1291,female,CD,Ustekinumab Only,9972,positive,adult,,booster2,25-Feb-22,06-Jan-22,mRNA,57,50 to 59
-1292,female,CD,Anti-TNF Only,8,negative,adult,,Pre-1st,01-Apr-21,10-Feb-21,mRNA,23,18 to 29
+1292,female,CD,Anti-TNF Only,8,negative,adult,,pre_dose,01-Apr-21,10-Feb-21,mRNA,23,18 to 29
 1293,female,UC,Ustekinumab Only,359,positive,adult,,primary,27-Jun-21,08-May-21,mRNA,35,30 to 39
 1294,female,UC,Ustekinumab Only,32029,positive,adult,,booster1,26-Jul-21,06-Jun-21,mRNA,35,30 to 39
 1295,female,UC,Ustekinumab Only,25503,positive,adult,,booster2,22-Dec-21,02-Nov-21,mRNA,36,30 to 39
 1296,female,UC,Ustekinumab Only,6206,positive,adult,,booster2,11-Apr-22,20-Feb-22,mRNA,36,30 to 39
-1297,male,CD,Ustekinumab Only,16,negative,adult,,Pre-1st,09-Apr-21,18-Feb-21,vector,55,50 to 59
+1297,male,CD,Ustekinumab Only,16,negative,adult,,pre_dose,09-Apr-21,18-Feb-21,vector,55,50 to 59
 1298,male,CD,Ustekinumab Only,289,positive,adult,,primary,01-Jun-21,12-Apr-21,vector,55,50 to 59
 1299,male,CD,Ustekinumab Only,565,positive,adult,120,booster1,31-Dec-21,11-Nov-21,vector,56,50 to 59
 1300,male,CD,Ustekinumab Only,8248,positive,adult,,booster2,09-Feb-22,21-Dec-21,vector,56,50 to 59
 1301,male,CD,Ustekinumab Only,1757,positive,adult,,booster2,10-Jun-22,21-Apr-22,vector,56,50 to 59
-1302,male,UC,Vedolizumab Only,380,positive,adult,,Pre-1st,09-Mar-21,18-Jan-21,mRNA,30,30 to 39
-1303,male,CD,Combination Therapy,66,negative,adult,,Pre-1st,18-Apr-21,27-Feb-21,mRNA,36,30 to 39
+1302,male,UC,Vedolizumab Only,380,positive,adult,,pre_dose,09-Mar-21,18-Jan-21,mRNA,30,30 to 39
+1303,male,CD,Combination Therapy,66,negative,adult,,pre_dose,18-Apr-21,27-Feb-21,mRNA,36,30 to 39
 1304,male,CD,Combination Therapy,21,negative,adult,,primary,02-Jul-21,13-May-21,mRNA,36,30 to 39
 1305,male,CD,Combination Therapy,63,negative,adult,390,booster1,06-Aug-21,17-Jun-21,mRNA,36,30 to 39
 1306,male,CD,Combination Therapy,389,positive,adult,300,booster2,19-Jan-22,30-Nov-21,mRNA,37,30 to 39
@@ -1309,12 +1309,12 @@ index,sex,IBD_type,med_class,antibody_level,seroconversion,age_group,DX_days,vac
 1308,female,UC,Ustekinumab Only,519,positive,adult,73,booster1,24-Jul-21,04-Jun-21,mRNA,24,18 to 29
 1309,female,UC,Ustekinumab Only,509,positive,pediatric,,booster2,22-Jan-22,03-Dec-21,mRNA,5,00 to 09
 1310,female,UC,Ustekinumab Only,933,positive,pediatric,,booster2,05-Jun-22,16-Apr-22,mRNA,5,00 to 09
-1311,male,CD,Anti-TNF Only,72,negative,pediatric,28,Pre-1st,29-Mar-21,07-Feb-21,mRNA,12,10 to 17
-1312,female,CD,Ustekinumab Only,9,negative,pediatric,,Pre-1st,27-Mar-21,05-Feb-21,mRNA,5,00 to 09
+1311,male,CD,Anti-TNF Only,72,negative,pediatric,28,pre_dose,29-Mar-21,07-Feb-21,mRNA,12,10 to 17
+1312,female,CD,Ustekinumab Only,9,negative,pediatric,,pre_dose,27-Mar-21,05-Feb-21,mRNA,5,00 to 09
 1313,female,CD,Ustekinumab Only,547,positive,adult,,primary,22-May-21,02-Apr-21,mRNA,37,30 to 39
 1314,female,CD,Ustekinumab Only,3710,positive,adult,,booster1,31-Aug-21,12-Jul-21,mRNA,38,30 to 39
 1315,female,CD,Ustekinumab Only,9277,positive,adult,,booster2,18-Feb-22,30-Dec-21,mRNA,38,30 to 39
-1316,male,CD,Anti-TNF Only,85,negative,adult,,Pre-1st,31-Mar-21,09-Feb-21,vector,47,40 to 49
+1316,male,CD,Anti-TNF Only,85,negative,adult,,pre_dose,31-Mar-21,09-Feb-21,vector,47,40 to 49
 1317,male,CD,Anti-TNF Only,99,negative,adult,,primary,12-Jun-21,23-Apr-21,vector,47,40 to 49
 1318,male,CD,Anti-TNF Only,10215,positive,adult,,booster1,03-Aug-21,14-Jun-21,vector,47,40 to 49
 1319,male,CD,Anti-TNF Only,554,positive,adult,,booster1,31-Dec-21,11-Nov-21,vector,48,40 to 49
@@ -1325,19 +1325,19 @@ index,sex,IBD_type,med_class,antibody_level,seroconversion,age_group,DX_days,vac
 1324,female,CD,Anti-TNF Only,172,positive,adult,,booster1,17-Sep-21,29-Jul-21,mRNA,60,60 to 69
 1325,female,CD,Anti-TNF Only,489,positive,adult,,booster2,04-Feb-22,16-Dec-21,mRNA,61,60 to 69
 1326,female,CD,Anti-TNF Only,2271,positive,adult,,booster2,08-Apr-22,17-Feb-22,mRNA,61,60 to 69
-1327,male,CD,Anti-TNF Only,9049,positive,adult,51,Pre-1st,25-Feb-21,06-Jan-21,mRNA,46,40 to 49
+1327,male,CD,Anti-TNF Only,9049,positive,adult,51,pre_dose,25-Feb-21,06-Jan-21,mRNA,46,40 to 49
 1328,male,CD,Anti-TNF Only,38668,positive,adult,147,primary,01-Jun-21,12-Apr-21,mRNA,47,40 to 49
 1329,male,CD,Anti-TNF Only,10115,positive,adult,,booster1,27-Aug-21,08-Jul-21,mRNA,47,40 to 49
 1330,male,CD,Anti-TNF Only,19556,positive,adult,399,booster2,08-Feb-22,20-Dec-21,mRNA,47,40 to 49
 1331,male,CD,Anti-TNF Only,11469,positive,adult,491,booster2,11-May-22,22-Mar-22,mRNA,48,40 to 49
-1332,male,UC,Tofacitinib Only,905,positive,adult,76,Pre-1st,03-Mar-21,12-Jan-21,mRNA,37,30 to 39
+1332,male,UC,Tofacitinib Only,905,positive,adult,76,pre_dose,03-Mar-21,12-Jan-21,mRNA,37,30 to 39
 1333,male,UC,Tofacitinib Only,24724,positive,adult,175,primary,10-Jun-21,21-Apr-21,mRNA,37,30 to 39
 1334,male,UC,Tofacitinib Only,14629,positive,adult,271,booster1,14-Sep-21,26-Jul-21,mRNA,37,30 to 39
 1335,female,CD,Ustekinumab Only,123,negative,adult,,primary,05-May-21,16-Mar-21,mRNA,60,60 to 69
 1336,female,CD,Ustekinumab Only,2279,positive,adult,,booster1,19-Aug-21,30-Jun-21,mRNA,60,60 to 69
 1337,female,CD,Ustekinumab Only,5282,positive,adult,,booster2,09-Feb-22,21-Dec-21,mRNA,61,60 to 69
 1338,female,CD,Ustekinumab Only,7163,positive,adult,,booster2,17-Jun-22,28-Apr-22,mRNA,61,60 to 69
-1339,male,CD,Ustekinumab Only,1,negative,elderly,,Pre-1st,08-Apr-21,17-Feb-21,mRNA,63,60 to 69
+1339,male,CD,Ustekinumab Only,1,negative,elderly,,pre_dose,08-Apr-21,17-Feb-21,mRNA,63,60 to 69
 1340,male,CD,Ustekinumab Only,14277,positive,elderly,,booster1,03-Sep-21,15-Jul-21,mRNA,64,60 to 69
 1341,male,CD,Ustekinumab Only,28561,positive,elderly,,booster2,22-Feb-22,03-Jan-22,mRNA,64,60 to 69
 1342,male,CD,Ustekinumab Only,6553,positive,elderly,,booster2,04-Jun-22,15-Apr-22,mRNA,64,60 to 69
@@ -1345,7 +1345,7 @@ index,sex,IBD_type,med_class,antibody_level,seroconversion,age_group,DX_days,vac
 1344,female,CD,Anti-TNF Only,,,adult,376,booster1,03-Apr-21,12-Feb-21,mRNA,30,30 to 39
 1345,female,CD,Anti-TNF Only,1238,positive,adult,216,booster1,10-Sep-21,22-Jul-21,mRNA,30,30 to 39
 1346,female,CD,Anti-TNF Only,4432,positive,adult,78,booster2,26-Jan-22,07-Dec-21,mRNA,31,30 to 39
-1347,male,CD,Combination Therapy,50,negative,adult,,Pre-1st,03-Apr-21,12-Feb-21,mRNA,28,18 to 29
+1347,male,CD,Combination Therapy,50,negative,adult,,pre_dose,03-Apr-21,12-Feb-21,mRNA,28,18 to 29
 1348,male,CD,Combination Therapy,285,positive,adult,223,primary,05-Jun-21,16-Apr-21,mRNA,17,10 to 17
 1349,male,CD,Combination Therapy,1255,positive,adult,,booster1,23-Jul-21,03-Jun-21,mRNA,17,10 to 17
 1350,female,CD,Combination Therapy,2532,positive,adult,,booster1,25-Aug-21,06-Jul-21,mRNA,20,18 to 29
@@ -1354,11 +1354,11 @@ index,sex,IBD_type,med_class,antibody_level,seroconversion,age_group,DX_days,vac
 1353,female,CD,Anti-TNF Only,16503,positive,adult,35,booster1,12-Feb-22,24-Dec-21,mRNA,53,50 to 59
 1354,female,CD,Anti-TNF Only,19842,positive,adult,62,booster2,11-Mar-22,20-Jan-22,mRNA,53,50 to 59
 1355,female,CD,Anti-TNF Only,7033,positive,adult,152,booster2,09-Jun-22,20-Apr-22,mRNA,54,50 to 59
-1356,female,UC,Vedolizumab Only,602,positive,adult,19,Pre-1st,28-Feb-21,09-Jan-21,mRNA,43,40 to 49
-1357,male,CD,Anti-TNF Only,42,negative,adult,121,Pre-1st,30-Mar-21,08-Feb-21,mRNA,36,30 to 39
+1356,female,UC,Vedolizumab Only,602,positive,adult,19,pre_dose,28-Feb-21,09-Jan-21,mRNA,43,40 to 49
+1357,male,CD,Anti-TNF Only,42,negative,adult,121,pre_dose,30-Mar-21,08-Feb-21,mRNA,36,30 to 39
 1358,male,CD,Anti-TNF Only,571,positive,adult,213,primary,30-Jun-21,11-May-21,mRNA,36,30 to 39
 1359,male,CD,Anti-TNF Only,146,positive,adult,390,booster1,01-Jan-22,12-Nov-21,mRNA,37,30 to 39
-1360,female,CD,Anti-TNF Only,79,negative,adult,,Pre-1st,30-Apr-21,11-Mar-21,mRNA,50,50 to 59
+1360,female,CD,Anti-TNF Only,79,negative,adult,,pre_dose,30-Apr-21,11-Mar-21,mRNA,50,50 to 59
 1361,female,CD,Anti-TNF Only,1943,positive,adult,,booster1,15-Jul-21,26-May-21,mRNA,50,50 to 59
 1362,female,CD,Anti-TNF Only,1924,positive,adult,,booster1,17-Jul-21,28-May-21,mRNA,50,50 to 59
 1363,female,CD,Anti-TNF Only,12800,positive,adult,,booster2,20-Oct-21,31-Aug-21,mRNA,50,50 to 59
@@ -1369,13 +1369,13 @@ index,sex,IBD_type,med_class,antibody_level,seroconversion,age_group,DX_days,vac
 1368,female,CD,Ustekinumab Only,4274,positive,adult,193,booster2,29-Jan-22,10-Dec-21,mRNA,50,50 to 59
 1369,female,CD,Ustekinumab Only,14046,positive,adult,300,booster2,14-May-22,25-Mar-22,mRNA,50,50 to 59
 1370,male,CD,Ustekinumab Only,13192,positive,adult,132,booster1,09-Sep-21,21-Jul-21,mRNA,33,30 to 39
-1371,female,UC,Anti-TNF Only,64,negative,adult,329,Pre-1st,17-Mar-21,26-Jan-21,mRNA,42,40 to 49
+1371,female,UC,Anti-TNF Only,64,negative,adult,329,pre_dose,17-Mar-21,26-Jan-21,mRNA,42,40 to 49
 1372,female,CD,Anti-TNF Only,5718,positive,adult,320,booster1,10-Mar-21,19-Jan-21,mRNA,22,18 to 29
 1373,female,CD,Anti-TNF Only,1414,positive,adult,238,booster1,31-May-21,11-Apr-21,mRNA,22,18 to 29
 1374,female,CD,Anti-TNF Only,15614,positive,adult,87,booster2,29-Oct-21,09-Sep-21,mRNA,22,18 to 29
 1375,female,CD,Anti-TNF Only,16699,positive,adult,11,booster2,04-Feb-22,16-Dec-21,mRNA,22,18 to 29
-1376,female,CD,Combination Therapy,1286,positive,adult,100,Pre-1st,15-May-21,26-Mar-21,mRNA,49,40 to 49
-1377,female,UC,Immunomodulator Only,43,negative,adult,,Pre-1st,16-Mar-21,25-Jan-21,mRNA,53,50 to 59
+1376,female,CD,Combination Therapy,1286,positive,adult,100,pre_dose,15-May-21,26-Mar-21,mRNA,49,40 to 49
+1377,female,UC,Immunomodulator Only,43,negative,adult,,pre_dose,16-Mar-21,25-Jan-21,mRNA,53,50 to 59
 1378,female,UC,Immunomodulator Only,,,adult,,primary,04-May-21,15-Mar-21,mRNA,53,50 to 59
 1379,female,UC,Immunomodulator Only,512,positive,adult,185,booster1,02-Jul-21,13-May-21,mRNA,53,50 to 59
 1380,female,UC,Immunomodulator Only,587,positive,adult,,booster1,04-Sep-21,16-Jul-21,mRNA,54,50 to 59
@@ -1387,7 +1387,7 @@ index,sex,IBD_type,med_class,antibody_level,seroconversion,age_group,DX_days,vac
 1386,female,CD,Combination Therapy,2684,positive,adult,,booster1,08-Apr-21,17-Feb-21,vector,38,30 to 39
 1387,female,CD,Combination Therapy,134,negative,adult,,booster1,01-Oct-21,12-Aug-21,vector,39,30 to 39
 1388,female,CD,Combination Therapy,4958,positive,adult,,booster2,13-Jul-22,24-May-22,vector,39,30 to 39
-1389,male,UC,No Immunosuppressives,338,positive,adult,73,Pre-1st,25-Feb-21,06-Jan-21,mRNA,27,18 to 29
+1389,male,UC,No Immunosuppressives,338,positive,adult,73,pre_dose,25-Feb-21,06-Jan-21,mRNA,27,18 to 29
 1390,male,UC,No Immunosuppressives,6055,positive,adult,282,booster1,09-May-21,20-Mar-21,mRNA,27,18 to 29
 1391,male,UC,No Immunosuppressives,4900,positive,adult,393,booster1,28-Aug-21,09-Jul-21,mRNA,28,18 to 29
 1392,male,UC,No Immunosuppressives,9697,positive,adult,525,booster1,07-Jan-22,18-Nov-21,mRNA,28,18 to 29
@@ -1397,46 +1397,46 @@ index,sex,IBD_type,med_class,antibody_level,seroconversion,age_group,DX_days,vac
 1396,female,CD,Ustekinumab Only,2632,positive,adult,155,booster1,09-Sep-21,21-Jul-21,mRNA,41,40 to 49
 1397,female,CD,Ustekinumab Only,6793,positive,adult,70,booster2,03-Dec-21,14-Oct-21,mRNA,41,40 to 49
 1398,male,UC,Anti-TNF Only,13232,positive,adult,,booster1,10-Aug-21,21-Jun-21,vector,32,30 to 39
-1399,female,CD,Vedolizumab Only,14876,positive,elderly,,,05-Mar-21,44210,,71,70+
-1400,female,CD,Vedolizumab Only,1002,positive,elderly,,,20-Aug-21,44378,,71,70+
-1401,female,CD,Anti-TNF Only,17,negative,adult,,Pre-1st,17-Mar-21,26-Jan-21,mRNA,47,40 to 49
+1399,female,CD,Vedolizumab Only,14876,positive,elderly,,primary,05-Mar-21,44210,,71,70+
+1400,female,CD,Vedolizumab Only,1002,positive,elderly,,primary,20-Aug-21,44378,,71,70+
+1401,female,CD,Anti-TNF Only,17,negative,adult,,pre_dose,17-Mar-21,26-Jan-21,mRNA,47,40 to 49
 1402,female,CD,Anti-TNF Only,1597,positive,adult,237,booster1,28-May-21,08-Apr-21,mRNA,47,40 to 49
 1403,female,CD,Anti-TNF Only,75,positive,adult,162,booster1,10-Sep-21,22-Jul-21,mRNA,48,40 to 49
 1404,female,CD,Anti-TNF Only,403,positive,adult,50,booster2,15-Dec-21,26-Oct-21,mRNA,48,40 to 49
 1405,female,CD,Anti-TNF Only,3659,positive,adult,56,booster2,15-Mar-22,24-Jan-22,mRNA,48,40 to 49
-1406,female,UC,No Immunosuppressives,1361,positive,adult,,Pre-1st,23-Mar-21,01-Feb-21,mRNA,45,40 to 49
+1406,female,UC,No Immunosuppressives,1361,positive,adult,,pre_dose,23-Mar-21,01-Feb-21,mRNA,45,40 to 49
 1407,female,UC,No Immunosuppressives,31605,positive,adult,,booster1,18-Nov-21,29-Sep-21,mRNA,46,40 to 49
 1408,female,CD,Anti-TNF Only,5634,positive,adult,,booster1,27-Mar-21,05-Feb-21,mRNA,34,30 to 39
 1409,female,CD,Anti-TNF Only,188,positive,adult,,booster1,28-Sep-21,09-Aug-21,mRNA,34,30 to 39
 1410,female,CD,Anti-TNF Only,29602,positive,adult,,booster2,18-Nov-21,29-Sep-21,mRNA,35,30 to 39
 1411,female,CD,Anti-TNF Only,10915,positive,adult,,booster2,18-Feb-22,30-Dec-21,mRNA,35,30 to 39
 1412,female,CD,Anti-TNF Only,23669,positive,adult,,booster2,19-Apr-22,28-Feb-22,mRNA,35,30 to 39
-1413,female,CD,Ustekinumab Only,46,negative,elderly,,Pre-1st,29-Mar-21,07-Feb-21,mRNA,65,60 to 69
+1413,female,CD,Ustekinumab Only,46,negative,elderly,,pre_dose,29-Mar-21,07-Feb-21,mRNA,65,60 to 69
 1414,female,CD,Ustekinumab Only,234,positive,elderly,,primary,12-May-21,23-Mar-21,mRNA,65,60 to 69
 1415,female,CD,Ustekinumab Only,4769,positive,elderly,,booster1,15-Jul-21,26-May-21,mRNA,65,60 to 69
 1416,female,CD,Ustekinumab Only,18799,positive,elderly,,booster2,12-Oct-21,23-Aug-21,mRNA,65,60 to 69
 1417,female,CD,Ustekinumab Only,4332,positive,elderly,,booster2,27-Jan-22,08-Dec-21,mRNA,66,60 to 69
 1418,female,CD,Ustekinumab Only,21782,positive,elderly,,booster2,01-Apr-22,10-Feb-22,mRNA,66,60 to 69
 1419,female,CD,Ustekinumab Only,80088,positive,elderly,,booster2,02-Jul-22,13-May-22,mRNA,66,60 to 69
-1420,male,CD,Anti-TNF Only,149,positive,adult,100,Pre-1st,28-Mar-21,06-Feb-21,mRNA,23,18 to 29
-1421,male,UC,Anti-TNF Only,36,negative,adult,,Pre-1st,27-Apr-21,08-Mar-21,mRNA,60,60 to 69
+1420,male,CD,Anti-TNF Only,149,positive,adult,100,pre_dose,28-Mar-21,06-Feb-21,mRNA,23,18 to 29
+1421,male,UC,Anti-TNF Only,36,negative,adult,,pre_dose,27-Apr-21,08-Mar-21,mRNA,60,60 to 69
 1422,male,UC,Anti-TNF Only,6359,positive,adult,,booster1,15-Jun-21,26-Apr-21,mRNA,60,60 to 69
 1423,male,UC,Anti-TNF Only,11639,positive,adult,,booster2,30-Nov-21,11-Oct-21,mRNA,61,60 to 69
-1424,female,CD,Vedolizumab Only,98,negative,adult,,Pre-1st,09-Apr-21,18-Feb-21,mRNA,32,30 to 39
+1424,female,CD,Vedolizumab Only,98,negative,adult,,pre_dose,09-Apr-21,18-Feb-21,mRNA,32,30 to 39
 1425,female,CD,Vedolizumab Only,193,positive,adult,,primary,03-Jun-21,14-Apr-21,mRNA,32,30 to 39
-1426,male,CD,Ustekinumab Only,714,positive,elderly,22,Pre-1st,05-Mar-21,14-Jan-21,mRNA,72,70+
+1426,male,CD,Ustekinumab Only,714,positive,elderly,22,pre_dose,05-Mar-21,14-Jan-21,mRNA,72,70+
 1427,male,CD,Ustekinumab Only,14656,positive,elderly,83,primary,05-May-21,16-Mar-21,mRNA,72,70+
 1428,male,CD,Ustekinumab Only,20412,positive,elderly,174,booster1,04-Aug-21,15-Jun-21,mRNA,72,70+
 1429,male,CD,Ustekinumab Only,32311,positive,elderly,237,booster2,20-Nov-21,01-Oct-21,mRNA,72,70+
 1430,male,CD,Ustekinumab Only,10481,positive,elderly,407,booster2,25-Mar-22,03-Feb-22,mRNA,73,70+
 1431,male,CD,Ustekinumab Only,37317,positive,elderly,465,booster2,22-May-22,02-Apr-22,mRNA,73,70+
-1432,male,UC,Immunomodulator Only,724,positive,adult,49,Pre-1st,16-Apr-21,25-Feb-21,mRNA,27,18 to 29
-1433,female,CD,Anti-TNF Only,38,negative,adult,285,Pre-1st,31-Mar-21,09-Feb-21,mRNA,31,30 to 39
+1432,male,UC,Immunomodulator Only,724,positive,adult,49,pre_dose,16-Apr-21,25-Feb-21,mRNA,27,18 to 29
+1433,female,CD,Anti-TNF Only,38,negative,adult,285,pre_dose,31-Mar-21,09-Feb-21,mRNA,31,30 to 39
 1434,female,CD,Anti-TNF Only,262,positive,adult,208,primary,16-Jun-21,27-Apr-21,mRNA,31,30 to 39
 1435,female,CD,Anti-TNF Only,5335,positive,adult,180,booster1,14-Jul-21,25-May-21,mRNA,31,30 to 39
 1436,female,CD,Anti-TNF Only,36886,positive,adult,24,booster1,03-Feb-22,15-Dec-21,mRNA,32,30 to 39
 1437,female,CD,Anti-TNF Only,28388,positive,adult,99,booster2,19-Apr-22,28-Feb-22,mRNA,32,30 to 39
-1438,female,CD,Ustekinumab Only,70,negative,adult,,Pre-1st,25-Mar-21,03-Feb-21,mRNA,59,50 to 59
+1438,female,CD,Ustekinumab Only,70,negative,adult,,pre_dose,25-Mar-21,03-Feb-21,mRNA,59,50 to 59
 1439,female,CD,Ustekinumab Only,88,positive,adult,162,primary,15-Jun-21,26-Apr-21,mRNA,60,60 to 69
 1440,female,CD,Ustekinumab Only,2269,positive,adult,,booster1,01-Oct-21,12-Aug-21,mRNA,60,60 to 69
 1441,female,CD,Ustekinumab Only,10718,positive,adult,,booster2,02-Nov-21,13-Sep-21,mRNA,60,60 to 69
@@ -1457,7 +1457,7 @@ index,sex,IBD_type,med_class,antibody_level,seroconversion,age_group,DX_days,vac
 1456,female,CD,Anti-TNF Only,15461,positive,adult,112,booster2,22-Jan-22,03-Dec-21,mRNA,33,30 to 39
 1457,female,CD,Anti-TNF Only,4134,positive,adult,153,booster2,04-Mar-22,13-Jan-22,mRNA,33,30 to 39
 1458,male,UC,Anti-TNF Only,6825,positive,adult,177,booster2,21-Oct-21,01-Sep-21,mRNA,34,30 to 39
-1459,male,CD,Anti-TNF Only,76,negative,adult,,Pre-1st,10-Apr-21,19-Feb-21,mRNA,39,30 to 39
+1459,male,CD,Anti-TNF Only,76,negative,adult,,pre_dose,10-Apr-21,19-Feb-21,mRNA,39,30 to 39
 1460,male,CD,Anti-TNF Only,54,negative,adult,,primary,21-May-21,01-Apr-21,mRNA,39,30 to 39
 1461,male,CD,Anti-TNF Only,9655,positive,adult,,booster1,14-Aug-21,25-Jun-21,mRNA,39,30 to 39
 1462,male,CD,Anti-TNF Only,9881,positive,adult,,booster2,13-Jan-22,24-Nov-21,mRNA,39,30 to 39
@@ -1466,33 +1466,33 @@ index,sex,IBD_type,med_class,antibody_level,seroconversion,age_group,DX_days,vac
 1465,female,CD,Ustekinumab Only,6112,positive,elderly,,primary,02-Jun-21,13-Apr-21,mRNA,63,60 to 69
 1466,female,CD,Ustekinumab Only,27487,positive,elderly,,booster1,30-Sep-21,11-Aug-21,mRNA,63,60 to 69
 1467,female,CD,Ustekinumab Only,67276,positive,elderly,,booster2,01-Dec-21,12-Oct-21,mRNA,64,60 to 69
-1468,female,CD,Combination Therapy,33,negative,adult,,Pre-1st,31-Mar-21,09-Feb-21,mRNA,58,50 to 59
+1468,female,CD,Combination Therapy,33,negative,adult,,pre_dose,31-Mar-21,09-Feb-21,mRNA,58,50 to 59
 1469,female,CD,Combination Therapy,263,positive,adult,,primary,21-May-21,01-Apr-21,mRNA,58,50 to 59
 1470,female,CD,Combination Therapy,1045,positive,adult,,booster1,11-Aug-21,22-Jun-21,mRNA,58,50 to 59
 1471,female,CD,Combination Therapy,13588,positive,adult,,booster2,29-Oct-21,09-Sep-21,mRNA,58,50 to 59
 1472,female,CD,Combination Therapy,795,positive,adult,,booster2,06-Mar-22,15-Jan-22,mRNA,59,50 to 59
 1473,female,CD,Combination Therapy,4055,positive,adult,,booster2,02-Apr-22,11-Feb-22,mRNA,59,50 to 59
-1474,male,CD,Vedolizumab Only,24,negative,adult,482,Pre-1st,27-Mar-21,05-Feb-21,mRNA,34,30 to 39
+1474,male,CD,Vedolizumab Only,24,negative,adult,482,pre_dose,27-Mar-21,05-Feb-21,mRNA,34,30 to 39
 1475,female,UC,Ustekinumab Only,8482,positive,adult,126,booster1,01-Sep-21,13-Jul-21,vector,45,40 to 49
 1476,female,UC,Ustekinumab Only,80042,positive,adult,99,booster2,14-Apr-22,23-Feb-22,vector,45,40 to 49
 1477,female,UC,Ustekinumab Only,80006,positive,adult,155,booster2,09-Jun-22,20-Apr-22,vector,45,40 to 49
-1478,male,CD,Anti-TNF Only,85,negative,elderly,,Pre-1st,31-Mar-21,09-Feb-21,mRNA,72,70+
+1478,male,CD,Anti-TNF Only,85,negative,elderly,,pre_dose,31-Mar-21,09-Feb-21,mRNA,72,70+
 1479,male,CD,Anti-TNF Only,543,positive,elderly,,booster2,08-Feb-22,20-Dec-21,mRNA,72,70+
-1480,male,UC,Ustekinumab Only,78,negative,adult,,Pre-1st,28-Mar-21,06-Feb-21,mRNA,38,30 to 39
+1480,male,UC,Ustekinumab Only,78,negative,adult,,pre_dose,28-Mar-21,06-Feb-21,mRNA,38,30 to 39
 1481,male,UC,Ustekinumab Only,1125,positive,adult,,booster1,16-Aug-21,27-Jun-21,mRNA,39,30 to 39
-1482,male,CD,Ustekinumab Only,43,negative,adult,297,Pre-1st,23-Mar-21,01-Feb-21,mRNA,43,40 to 49
+1482,male,CD,Ustekinumab Only,43,negative,adult,297,pre_dose,23-Mar-21,01-Feb-21,mRNA,43,40 to 49
 1483,male,CD,Ustekinumab Only,208,positive,adult,224,primary,04-Jun-21,15-Apr-21,mRNA,43,40 to 49
 1484,male,CD,Ustekinumab Only,2305,positive,adult,174,booster1,24-Jul-21,04-Jun-21,mRNA,43,40 to 49
 1485,male,CD,Ustekinumab Only,8874,positive,adult,20,booster2,25-Dec-21,05-Nov-21,mRNA,43,40 to 49
 1486,male,CD,Ustekinumab Only,23088,positive,adult,76,booster2,31-Mar-22,09-Feb-22,mRNA,44,40 to 49
 1487,male,CD,Ustekinumab Only,40014,positive,adult,132,booster2,26-May-22,06-Apr-22,mRNA,44,40 to 49
-1488,female,CD,Ustekinumab Only,32,negative,elderly,,Pre-1st,09-Apr-21,18-Feb-21,mRNA,64,60 to 69
+1488,female,CD,Ustekinumab Only,32,negative,elderly,,pre_dose,09-Apr-21,18-Feb-21,mRNA,64,60 to 69
 1489,female,CD,Ustekinumab Only,224,positive,elderly,,primary,23-May-21,03-Apr-21,mRNA,64,60 to 69
 1490,female,CD,Ustekinumab Only,15566,positive,elderly,,booster1,21-Jul-21,01-Jun-21,mRNA,64,60 to 69
 1491,female,CD,Ustekinumab Only,1079,positive,elderly,,booster1,18-Dec-21,29-Oct-21,mRNA,64,60 to 69
 1492,female,CD,Ustekinumab Only,51040,positive,elderly,,booster2,18-Jan-22,29-Nov-21,mRNA,65,60 to 69
 1493,female,CD,Ustekinumab Only,8732,positive,elderly,,booster2,10-May-22,21-Mar-22,mRNA,65,60 to 69
-1494,male,UC,Anti-TNF Only,68,negative,adult,,Pre-1st,17-Mar-21,26-Jan-21,mRNA,22,18 to 29
+1494,male,UC,Anti-TNF Only,68,negative,adult,,pre_dose,17-Mar-21,26-Jan-21,mRNA,22,18 to 29
 1495,male,UC,Anti-TNF Only,6597,positive,adult,,booster1,21-Jul-21,01-Jun-21,mRNA,22,18 to 29
 1496,male,UC,Anti-TNF Only,5509,positive,adult,,booster2,07-Jan-22,18-Nov-21,mRNA,23,18 to 29
 1497,male,UC,Anti-TNF Only,4414,positive,adult,,booster2,01-Apr-22,10-Feb-22,mRNA,23,18 to 29
@@ -1501,19 +1501,19 @@ index,sex,IBD_type,med_class,antibody_level,seroconversion,age_group,DX_days,vac
 1500,male,CD,Ustekinumab Only,38376,positive,adult,225,booster2,16-Feb-22,28-Dec-21,vector,52,50 to 59
 1501,male,CD,Ustekinumab Only,70664,positive,adult,169,booster2,30-Jun-22,11-May-22,vector,52,50 to 59
 1502,male,CD,Anti-TNF Only,1505,positive,adult,,booster1,04-Sep-21,16-Jul-21,mRNA,56,50 to 59
-1503,male,CD,Combination Therapy,73,negative,adult,345,Pre-1st,09-Apr-21,18-Feb-21,mRNA,28,18 to 29
+1503,male,CD,Combination Therapy,73,negative,adult,345,pre_dose,09-Apr-21,18-Feb-21,mRNA,28,18 to 29
 1504,male,CD,Combination Therapy,137,positive,adult,302,primary,02-Jun-21,13-Apr-21,mRNA,29,18 to 29
 1505,male,CD,Combination Therapy,6642,positive,adult,187,booster1,27-Aug-21,08-Jul-21,mRNA,29,18 to 29
 1506,male,CD,Combination Therapy,10189,positive,adult,,booster2,10-Feb-22,22-Dec-21,mRNA,29,18 to 29
 1507,female,CD,Ustekinumab Only,20076,positive,elderly,,booster1,02-Sep-21,14-Jul-21,vector,64,60 to 69
-1508,male,CD,Combination Therapy,1023,positive,adult,,Pre-1st,13-Mar-21,22-Jan-21,mRNA,36,30 to 39
+1508,male,CD,Combination Therapy,1023,positive,adult,,pre_dose,13-Mar-21,22-Jan-21,mRNA,36,30 to 39
 1509,male,UC,Anti-TNF Only,984,positive,adult,225,booster1,18-Aug-21,29-Jun-21,mRNA,38,30 to 39
-1510,male,CD,Combination Therapy,21,negative,adult,,Pre-1st,07-Apr-21,16-Feb-21,mRNA,57,50 to 59
+1510,male,CD,Combination Therapy,21,negative,adult,,pre_dose,07-Apr-21,16-Feb-21,mRNA,57,50 to 59
 1511,male,CD,Combination Therapy,2918,positive,adult,,booster1,24-Aug-21,05-Jul-21,mRNA,57,50 to 59
 1512,male,CD,Combination Therapy,12432,positive,adult,,booster2,04-Nov-21,15-Sep-21,mRNA,57,50 to 59
 1513,male,CD,Combination Therapy,2012,positive,adult,,booster2,04-Mar-22,13-Jan-22,mRNA,58,50 to 59
 1514,male,CD,Combination Therapy,17096,positive,adult,,booster2,04-Jun-22,15-Apr-22,mRNA,58,50 to 59
-1515,male,CD,Ustekinumab Only,88,negative,adult,,Pre-1st,04-May-21,15-Mar-21,mRNA,42,40 to 49
+1515,male,CD,Ustekinumab Only,88,negative,adult,,pre_dose,04-May-21,15-Mar-21,mRNA,42,40 to 49
 1516,male,CD,Ustekinumab Only,5013,positive,adult,,booster1,24-Aug-21,05-Jul-21,mRNA,43,40 to 49
 1517,male,CD,Ustekinumab Only,9967,positive,adult,,booster2,25-May-22,05-Apr-22,mRNA,43,40 to 49
 1518,male,CD,Immunomodulator Only,153,positive,elderly,,primary,27-Apr-21,08-Mar-21,mRNA,73,70+
@@ -1549,11 +1549,11 @@ index,sex,IBD_type,med_class,antibody_level,seroconversion,age_group,DX_days,vac
 1548,male,CD,Vedolizumab Only,732,positive,elderly,,booster1,18-Sep-21,30-Jul-21,mRNA,73,70+
 1549,male,CD,Vedolizumab Only,3601,positive,elderly,302,booster2,13-Nov-21,24-Sep-21,mRNA,73,70+
 1550,male,CD,Vedolizumab Only,5822,positive,elderly,,booster2,04-May-22,15-Mar-22,mRNA,74,70+
-1551,male,CD,Ustekinumab Only,33,negative,adult,359,Pre-1st,24-Mar-21,02-Feb-21,mRNA,47,40 to 49
+1551,male,CD,Ustekinumab Only,33,negative,adult,359,pre_dose,24-Mar-21,02-Feb-21,mRNA,47,40 to 49
 1552,male,CD,Ustekinumab Only,131,positive,adult,209,primary,21-Aug-21,02-Jul-21,mRNA,48,40 to 49
 1553,male,CD,Ustekinumab Only,11608,positive,adult,113,booster2,25-Nov-21,06-Oct-21,mRNA,48,40 to 49
 1554,male,CD,Ustekinumab Only,69121,positive,adult,4,booster2,22-Mar-22,31-Jan-22,mRNA,48,40 to 49
-1555,male,CD,Combination Therapy,66,negative,adult,,Pre-1st,22-Apr-21,03-Mar-21,mRNA,49,40 to 49
+1555,male,CD,Combination Therapy,66,negative,adult,,pre_dose,22-Apr-21,03-Mar-21,mRNA,49,40 to 49
 1556,male,CD,Combination Therapy,128,negative,adult,,primary,21-May-21,01-Apr-21,mRNA,49,40 to 49
 1557,male,CD,Combination Therapy,1630,positive,adult,,booster1,08-Jul-21,19-May-21,mRNA,49,40 to 49
 1558,male,CD,Combination Therapy,1901,positive,adult,,booster1,24-Sep-21,05-Aug-21,mRNA,49,40 to 49
@@ -1573,7 +1573,7 @@ index,sex,IBD_type,med_class,antibody_level,seroconversion,age_group,DX_days,vac
 1572,male,CD,Anti-TNF Only,212,positive,adult,72,booster1,05-Nov-21,16-Sep-21,mRNA,41,40 to 49
 1573,male,CD,Anti-TNF Only,13529,positive,adult,31,booster1,16-Feb-22,28-Dec-21,mRNA,42,40 to 49
 1574,male,CD,Anti-TNF Only,186,positive,adult,53,booster1,10-Mar-22,19-Jan-22,mRNA,42,40 to 49
-1575,female,CD,Vedolizumab Only,61,negative,adult,,Pre-1st,13-Apr-21,22-Feb-21,vector,38,30 to 39
+1575,female,CD,Vedolizumab Only,61,negative,adult,,pre_dose,13-Apr-21,22-Feb-21,vector,38,30 to 39
 1576,female,CD,Vedolizumab Only,1228,positive,adult,,primary,28-May-21,08-Apr-21,vector,38,30 to 39
 1577,female,CD,Vedolizumab Only,36742,positive,adult,,booster1,21-Aug-21,02-Jul-21,vector,38,30 to 39
 1578,female,CD,Vedolizumab Only,41912,positive,adult,,booster1,03-Aug-22,14-Jun-22,vector,39,30 to 39
@@ -1587,12 +1587,12 @@ index,sex,IBD_type,med_class,antibody_level,seroconversion,age_group,DX_days,vac
 1586,male,CD,No Immunosuppressives,5518,positive,elderly,,booster2,14-Jan-22,25-Nov-21,mRNA,75,70+
 1587,male,CD,No Immunosuppressives,2365,positive,elderly,,booster2,12-Apr-22,21-Feb-22,mRNA,75,70+
 1588,male,CD,No Immunosuppressives,24196,positive,elderly,,booster2,31-May-22,11-Apr-22,mRNA,75,70+
-1589,female,CD,Anti-TNF Only,47,negative,adult,,Pre-1st,22-Mar-21,31-Jan-21,mRNA,59,50 to 59
+1589,female,CD,Anti-TNF Only,47,negative,adult,,pre_dose,22-Mar-21,31-Jan-21,mRNA,59,50 to 59
 1590,female,CD,Anti-TNF Only,315,positive,adult,,booster1,29-Aug-21,10-Jul-21,mRNA,60,60 to 69
 1591,female,CD,Anti-TNF Only,8878,positive,adult,,booster2,10-Nov-21,21-Sep-21,mRNA,60,60 to 69
 1592,female,CD,Anti-TNF Only,4200,positive,adult,,booster2,26-Jan-22,07-Dec-21,mRNA,60,60 to 69
 1593,female,CD,Anti-TNF Only,15212,positive,adult,,booster2,24-May-22,04-Apr-22,mRNA,60,60 to 69
-1594,male,CD,Anti-TNF Only,75,negative,adult,277,Pre-1st,15-Apr-21,24-Feb-21,mRNA,52,50 to 59
+1594,male,CD,Anti-TNF Only,75,negative,adult,277,pre_dose,15-Apr-21,24-Feb-21,mRNA,52,50 to 59
 1595,male,CD,Anti-TNF Only,168,positive,adult,221,primary,10-Jun-21,21-Apr-21,mRNA,53,50 to 59
 1596,male,CD,Anti-TNF Only,1914,positive,adult,165,booster1,05-Aug-21,16-Jun-21,mRNA,53,50 to 59
 1597,male,CD,Anti-TNF Only,159,positive,adult,53,booster1,25-Nov-21,06-Oct-21,mRNA,53,50 to 59
@@ -1609,7 +1609,7 @@ index,sex,IBD_type,med_class,antibody_level,seroconversion,age_group,DX_days,vac
 1608,male,UC,No Immunosuppressives,12957,positive,elderly,,booster2,06-Jan-22,17-Nov-21,mRNA,69,60 to 69
 1609,male,UC,No Immunosuppressives,7658,positive,elderly,,booster2,20-Apr-22,01-Mar-22,mRNA,69,60 to 69
 1610,male,UC,No Immunosuppressives,15752,positive,elderly,,booster2,14-Jun-22,25-Apr-22,mRNA,69,60 to 69
-1611,female,CD,Ustekinumab Only,54,negative,adult,,Pre-1st,14-Apr-21,23-Feb-21,mRNA,49,40 to 49
+1611,female,CD,Ustekinumab Only,54,negative,adult,,pre_dose,14-Apr-21,23-Feb-21,mRNA,49,40 to 49
 1612,female,CD,Ustekinumab Only,1669,positive,adult,,primary,09-Jun-21,20-Apr-21,mRNA,49,40 to 49
 1613,female,CD,Ustekinumab Only,26161,positive,adult,,booster1,06-Aug-21,17-Jun-21,mRNA,49,40 to 49
 1614,female,CD,Ustekinumab Only,5863,positive,adult,,booster2,24-Nov-21,05-Oct-21,mRNA,50,50 to 59
@@ -1618,12 +1618,12 @@ index,sex,IBD_type,med_class,antibody_level,seroconversion,age_group,DX_days,vac
 1617,female,UC,Vedolizumab Only,8229,positive,adult,,booster1,30-Mar-21,08-Feb-21,mRNA,35,30 to 39
 1618,female,UC,Vedolizumab Only,2080,positive,adult,,booster1,24-Nov-21,05-Oct-21,mRNA,35,30 to 39
 1619,female,UC,Vedolizumab Only,30945,positive,adult,,booster2,01-Mar-22,10-Jan-22,mRNA,36,30 to 39
-1620,male,CD,Ustekinumab Only,53,negative,adult,383,Pre-1st,24-Apr-21,05-Mar-21,mRNA,47,40 to 49
+1620,male,CD,Ustekinumab Only,53,negative,adult,383,pre_dose,24-Apr-21,05-Mar-21,mRNA,47,40 to 49
 1621,male,CD,Ustekinumab Only,255,positive,adult,327,primary,19-Jun-21,30-Apr-21,mRNA,47,40 to 49
 1622,male,CD,Ustekinumab Only,12757,positive,adult,271,booster1,14-Aug-21,25-Jun-21,mRNA,47,40 to 49
 1623,male,CD,Ustekinumab Only,16391,positive,adult,166,booster2,27-Nov-21,08-Oct-21,mRNA,48,40 to 49
 1624,male,CD,Ustekinumab Only,1990,positive,adult,48,booster2,25-Mar-22,03-Feb-22,mRNA,48,40 to 49
-1625,male,CD,Ustekinumab Only,99,negative,adult,299,Pre-1st,25-Mar-21,03-Feb-21,mRNA,48,40 to 49
+1625,male,CD,Ustekinumab Only,99,negative,adult,299,pre_dose,25-Mar-21,03-Feb-21,mRNA,48,40 to 49
 1626,male,CD,Ustekinumab Only,195,positive,adult,242,primary,21-May-21,01-Apr-21,mRNA,48,40 to 49
 1627,male,CD,Ustekinumab Only,673,positive,adult,139,booster1,01-Sep-21,13-Jul-21,mRNA,48,40 to 49
 1628,male,CD,Ustekinumab Only,6890,positive,adult,59,booster2,20-Nov-21,01-Oct-21,mRNA,48,40 to 49
@@ -1649,7 +1649,7 @@ index,sex,IBD_type,med_class,antibody_level,seroconversion,age_group,DX_days,vac
 1648,male,CD,Anti-TNF Only,4264,positive,elderly,151,booster1,21-Aug-21,02-Jul-21,mRNA,65,60 to 69
 1649,male,CD,Anti-TNF Only,3676,positive,elderly,,booster2,18-Nov-21,29-Sep-21,mRNA,65,60 to 69
 1650,male,CD,Anti-TNF Only,20637,positive,elderly,16,booster2,04-Feb-22,16-Dec-21,mRNA,65,60 to 69
-1651,male,UC,Combination Therapy,87,negative,adult,,Pre-1st,30-Mar-21,08-Feb-21,mRNA,59,50 to 59
+1651,male,UC,Combination Therapy,87,negative,adult,,pre_dose,30-Mar-21,08-Feb-21,mRNA,59,50 to 59
 1652,male,UC,Combination Therapy,3505,positive,adult,,booster1,31-Aug-21,12-Jul-21,mRNA,60,60 to 69
 1653,male,UC,Combination Therapy,16302,positive,adult,,booster2,28-Jun-22,09-May-22,mRNA,61,60 to 69
 1654,male,UC,Vedolizumab Only,2837,positive,adult,,booster1,24-Jul-21,04-Jun-21,vector,60,60 to 69
@@ -1667,7 +1667,7 @@ index,sex,IBD_type,med_class,antibody_level,seroconversion,age_group,DX_days,vac
 1666,male,CD,Ustekinumab Only,361,positive,elderly,,booster1,24-Dec-21,04-Nov-21,vector,62,60 to 69
 1667,male,CD,Ustekinumab Only,65421,positive,elderly,,booster2,02-Feb-22,14-Dec-21,vector,62,60 to 69
 1668,male,CD,Ustekinumab Only,10132,positive,elderly,,booster2,26-May-22,06-Apr-22,vector,62,60 to 69
-1669,female,UC,Anti-TNF Only,398,positive,adult,,Pre-1st,09-Apr-21,18-Feb-21,mRNA,31,30 to 39
+1669,female,UC,Anti-TNF Only,398,positive,adult,,pre_dose,09-Apr-21,18-Feb-21,mRNA,31,30 to 39
 1670,female,CD,Ustekinumab Only,641,positive,adult,,primary,10-Jun-21,21-Apr-21,vector,53,50 to 59
 1671,female,CD,Ustekinumab Only,3228,positive,adult,,booster1,07-Aug-21,18-Jun-21,vector,54,50 to 59
 1672,female,CD,Ustekinumab Only,1090,positive,adult,,booster1,21-Nov-21,02-Oct-21,vector,54,50 to 59
@@ -1736,13 +1736,13 @@ index,sex,IBD_type,med_class,antibody_level,seroconversion,age_group,DX_days,vac
 1735,male,UC,Immunomodulator Only,11625,positive,adult,,booster1,19-Aug-21,30-Jun-21,vector,57,50 to 59
 1736,male,UC,Immunomodulator Only,24801,positive,adult,,booster2,11-Feb-22,23-Dec-21,vector,58,50 to 59
 1737,male,UC,Immunomodulator Only,10248,positive,adult,,booster2,23-Apr-22,04-Mar-22,vector,58,50 to 59
-1738,male,CD,Corticosteroids,214,positive,adult,,Pre-1st,07-Apr-21,16-Feb-21,mRNA,55,50 to 59
+1738,male,CD,Corticosteroids,214,positive,adult,,pre_dose,07-Apr-21,16-Feb-21,mRNA,55,50 to 59
 1739,male,CD,Corticosteroids,146,positive,adult,,primary,20-May-21,31-Mar-21,mRNA,55,50 to 59
 1740,male,CD,Corticosteroids,396,positive,adult,,booster1,08-Jul-21,19-May-21,mRNA,55,50 to 59
 1741,male,CD,Corticosteroids,18050,positive,adult,,booster2,15-Oct-21,26-Aug-21,mRNA,56,50 to 59
 1742,male,CD,Corticosteroids,7516,positive,adult,,booster2,16-Mar-22,25-Jan-22,mRNA,56,50 to 59
 1743,male,CD,Corticosteroids,3742,positive,adult,,booster2,18-Jun-22,29-Apr-22,mRNA,56,50 to 59
-1744,male,CD,Combination Therapy,96,positive,adult,44,Pre-1st,21-May-21,01-Apr-21,mRNA,36,30 to 39
+1744,male,CD,Combination Therapy,96,positive,adult,44,pre_dose,21-May-21,01-Apr-21,mRNA,36,30 to 39
 1745,male,CD,Combination Therapy,4726,positive,adult,,primary,04-Jul-21,15-May-21,mRNA,36,30 to 39
 1746,female,UC,Tofacitinib Only,511,positive,adult,,primary,10-Jun-21,21-Apr-21,mRNA,25,18 to 29
 1747,female,UC,Tofacitinib Only,7403,positive,adult,,booster1,05-Aug-21,16-Jun-21,mRNA,25,18 to 29
@@ -1827,13 +1827,13 @@ index,sex,IBD_type,med_class,antibody_level,seroconversion,age_group,DX_days,vac
 1826,female,CD,Anti-TNF Only,27890,positive,adult,,booster2,23-Oct-21,03-Sep-21,vector,55,50 to 59
 1827,female,CD,Anti-TNF Only,113,positive,adult,269,primary,22-May-21,02-Apr-21,mRNA,22,18 to 29
 1828,female,CD,Anti-TNF Only,1061,positive,adult,223,booster1,07-Jul-21,18-May-21,mRNA,22,18 to 29
-1829,male,CD,Anti-TNF Only,92,negative,adult,,,03-Jun-21,44300,,34,30 to 39
-1830,male,CD,Anti-TNF Only,38,negative,adult,,,28-Sep-21,44417,,35,30 to 39
+1829,male,CD,Anti-TNF Only,92,negative,adult,,primary,03-Jun-21,44300,,34,30 to 39
+1830,male,CD,Anti-TNF Only,38,negative,adult,,primary,28-Sep-21,44417,,35,30 to 39
 1831,male,CD,Ustekinumab Only,871,positive,adult,,primary,04-Jun-21,15-Apr-21,mRNA,58,50 to 59
 1832,male,CD,Ustekinumab Only,3394,positive,adult,,booster1,13-Aug-21,24-Jun-21,mRNA,58,50 to 59
 1833,male,CD,Ustekinumab Only,80004,positive,adult,,booster2,21-Jan-22,02-Dec-21,mRNA,59,50 to 59
 1834,male,CD,Ustekinumab Only,25205,positive,adult,,booster2,28-Apr-22,09-Mar-22,mRNA,59,50 to 59
-1835,female,CD,Anti-TNF Only,150,positive,adult,31,Pre-1st,04-May-21,15-Mar-21,mRNA,30,30 to 39
+1835,female,CD,Anti-TNF Only,150,positive,adult,31,pre_dose,04-May-21,15-Mar-21,mRNA,30,30 to 39
 1836,female,CD,Anti-TNF Only,7186,positive,adult,60,primary,02-Jun-21,13-Apr-21,mRNA,30,30 to 39
 1837,female,CD,Anti-TNF Only,1969,positive,adult,157,booster1,07-Sep-21,19-Jul-21,mRNA,30,30 to 39
 1838,female,CD,Anti-TNF Only,608,positive,adult,236,booster1,25-Nov-21,06-Oct-21,mRNA,30,30 to 39
@@ -1842,7 +1842,7 @@ index,sex,IBD_type,med_class,antibody_level,seroconversion,age_group,DX_days,vac
 1841,male,CD,Anti-TNF Only,4736,positive,adult,,booster1,04-Aug-21,15-Jun-21,mRNA,57,50 to 59
 1842,male,CD,Anti-TNF Only,15055,positive,adult,,booster2,11-Dec-21,22-Oct-21,mRNA,57,50 to 59
 1843,male,CD,Anti-TNF Only,1674,positive,adult,,booster2,02-Mar-22,11-Jan-22,mRNA,57,50 to 59
-1844,female,CD,Combination Therapy,163,positive,adult,55,Pre-1st,14-Apr-21,23-Feb-21,mRNA,27,18 to 29
+1844,female,CD,Combination Therapy,163,positive,adult,55,pre_dose,14-Apr-21,23-Feb-21,mRNA,27,18 to 29
 1845,male,CD,Combination Therapy,229,positive,elderly,,primary,06-May-21,17-Mar-21,vector,64,60 to 69
 1846,male,CD,Combination Therapy,195,positive,elderly,,primary,10-Jun-21,21-Apr-21,vector,64,60 to 69
 1847,male,CD,Combination Therapy,1871,positive,elderly,,booster1,07-Aug-21,18-Jun-21,vector,64,60 to 69
