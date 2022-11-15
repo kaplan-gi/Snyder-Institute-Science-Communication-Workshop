@@ -1,4 +1,4 @@
-﻿index,year,agegroup,dis,surgery_rate,upper,lower
+﻿index,year,age_group,IBD_type,rate,upper,lower
 1,2005,<18,UC,29.09153032,34.02797601,18.97532838
 2,2005,18 to 39,UC,25.47287221,27.8094442,18.6969049
 3,2005,40 to 59,UC,18.93900758,21.04661995,12.5146166
